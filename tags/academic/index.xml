@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic on Academic Theme</title>
+    <title>Academic on Justin&#39;s Blog</title>
     <link>https://justin-hayes.github.io/tags/academic/</link>
-    <description>Recent content in Academic on Academic Theme</description>
+    <description>Recent content in Academic on Justin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Your Name</copyright>
+    <copyright>&amp;copy; 2016 Justin Hayes</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 12:00:00 +0000</lastBuildDate>
     <atom:link href="https://justin-hayes.github.io/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     
@@ -75,7 +75,8 @@ cd my_website
 
 &lt;p&gt;For deployment, the &lt;code&gt;baseURL&lt;/code&gt; variable should be changed to match your website URL such as &lt;code&gt;baseURL = &amp;quot;http://your-site.org/&amp;quot;&lt;/code&gt;. The example Disqus commenting variable should be cleared (e.g. &lt;code&gt;disqusShortname = &amp;quot;&amp;quot;&lt;/code&gt;) or set to your own Disqus shortname to enable commenting. To enable Google Analytics, add your tracking code in &lt;code&gt;config.toml&lt;/code&gt; similarly to &lt;code&gt;googleAnalytics = &amp;quot;UA-12345678-9&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;Next, you may be interested to read the guide about &lt;a href=&#34;https://justin-hayes.github.io/post/managing-content/&#34;&gt;managing content&lt;/a&gt;, or continue reading below for advanced customization tips and instructions for keeping the theme up-to-date with any improvements that become available.&lt;/p&gt;
+&lt;p&gt;Next, you may be interested to read the guide about &lt;a href=&#34;No page found with path or logical name &#34;post/managing-content.md&#34;.
+&#34;&gt;managing content&lt;/a&gt;, or continue reading below for advanced customization tips and instructions for keeping the theme up-to-date with any improvements that become available.&lt;/p&gt;
 
 &lt;h2 id=&#34;advanced-customization&#34;&gt;Advanced customization&lt;/h2&gt;
 
@@ -135,123 +136,6 @@ $ git pull upstream
 &lt;p&gt;Copyright 2016 &lt;a href=&#34;https://georgecushen.com&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Managing content</title>
-      <link>https://justin-hayes.github.io/post/managing-content/</link>
-      <pubDate>Wed, 20 Apr 2016 11:00:00 +0000</pubDate>
-      
-      <guid>https://justin-hayes.github.io/post/managing-content/</guid>
-      <description>
-
-&lt;p&gt;This is a brief guide to managing content with the Academic theme. Content can include homepage sections, publications, projects, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;https://justin-hayes.github.io/post/writing-markdown-latex/&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;To enable LaTeX math rendering for a page, you should include &lt;code&gt;math = true&lt;/code&gt; in the page&amp;rsquo;s &lt;code&gt;+++&lt;/code&gt; preamble, as demonstrated in the included example site. Otherwise, to enable math on the homepage or for all pages, you must globally set &lt;code&gt;math = true&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;To display an image in publication, post, or project page headers, you can include the &lt;code&gt;image = &amp;quot;my-image.jpg&amp;quot;&lt;/code&gt; option in the page &lt;code&gt;+++&lt;/code&gt; preamble. It is automatically assumed that the image is located in your &lt;code&gt;static/img/&lt;/code&gt; folder. In the context of posts and projects, the image is intended to behave as a full width banner across the top of the article.&lt;/p&gt;
-
-&lt;h2 id=&#34;homepage-sections&#34;&gt;Homepage sections&lt;/h2&gt;
-
-&lt;p&gt;Homepage sections for publications, projects and posts will automatically hide when there is no content of the respective type. Therefore, if you do not require a particular feature, you can simply delete any associated content in the &lt;code&gt;content/&lt;/code&gt; folder.&lt;/p&gt;
-
-&lt;h3 id=&#34;introduce-yourself-with-a-biography&#34;&gt;Introduce yourself with a biography&lt;/h3&gt;
-
-&lt;p&gt;Place a cropped portrait photo named &lt;code&gt;portrait.jpg&lt;/code&gt; into the &lt;code&gt;static/img/&lt;/code&gt; folder, overwriting any defaults.&lt;/p&gt;
-
-&lt;p&gt;Edit your biography in the example &lt;code&gt;content/home/about.md&lt;/code&gt; file that you copied across from the &lt;code&gt;themes/academic/exampleSite/&lt;/code&gt; folder. The research interests and qualifications are stored separately as &lt;code&gt;interests&lt;/code&gt; and &lt;code&gt;education&lt;/code&gt; variables under &lt;code&gt;[params.about]&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;, as can be seen in the example config. It&amp;rsquo;s possible to completely hide the interests and education lists by deleting their respective variables.&lt;/p&gt;
-
-&lt;h3 id=&#34;add-a-section-to-the-homepage&#34;&gt;Add a section to the homepage&lt;/h3&gt;
-
-&lt;p&gt;To add a new section to the homepage:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo new home/my-section-name.md
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Then edit the newly created file &lt;code&gt;content/home/my-section-name.md&lt;/code&gt; with your section title and content. In the &lt;code&gt;+++&lt;/code&gt; preamble, you should also increment the &lt;code&gt;section_id&lt;/code&gt; to ensure it&amp;rsquo;s unique amongst the other sections in &lt;code&gt;content/home&lt;/code&gt; and you can adjust &lt;code&gt;weight&lt;/code&gt; variable to change the order within the custom section of the home page.&lt;/p&gt;
-
-&lt;p&gt;You may also wish to add a navigation link pointing to the new section. This can be achieved by adding something similar to the following lines to your &lt;code&gt;config.toml&lt;/code&gt;, where the URL will consist of the first title word in lowercase:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;[[menu.main]]
-    name = &amp;quot;Research&amp;quot;
-    url = &amp;quot;#research&amp;quot;
-    weight = 10
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;create-a-publication&#34;&gt;Create a publication&lt;/h2&gt;
-
-&lt;p&gt;To create a new publication:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo new publication/my-paper-name.md
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Then edit the default variables at the top of &lt;code&gt;content/publication/my-paper-name.md&lt;/code&gt; to include the details of your publication. The &lt;code&gt;url_&lt;/code&gt; variables are used to generate links associated with your publication, such as for viewing PDFs of papers. Here is an example:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;+++
-abstract = &amp;quot;An abstract...&amp;quot;
-authors = [&amp;quot;First author&#39;s name&amp;quot;, &amp;quot;Second author&#39;s name&amp;quot;]
-date = &amp;quot;2013-07-01&amp;quot;
-image = &amp;quot;&amp;quot;
-image_preview = &amp;quot;&amp;quot;
-math = false
-publication = &amp;quot;The publishing part of the citation goes here. You may use *Markdown* for italics etc.&amp;quot;
-title = &amp;quot;A publication title, such as title of a paper&amp;quot;
-url_code = &amp;quot;&amp;quot;
-url_dataset = &amp;quot;&amp;quot;
-url_pdf = &amp;quot;pdf/my-paper-name.pdf&amp;quot;
-url_project = &amp;quot;&amp;quot;
-url_slides = &amp;quot;&amp;quot;
-url_video = &amp;quot;&amp;quot;
-+++
-
-Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;The &lt;code&gt;url_&lt;/code&gt; links can either point to local or web content. Associated local publication content, such as PDFs, may be copied to a &lt;code&gt;static/pdf/&lt;/code&gt; folder and referenced like &lt;code&gt;url_pdf = &amp;quot;pdf/my-paper-name.pdf&amp;quot;&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;You can also associate custom link buttons with the publication by adding the following block(s) within the variable preamble above, which is denoted by &lt;code&gt;+++&lt;/code&gt;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;[[url_custom]]
-    name = &amp;quot;Custom Link&amp;quot;
-    url = &amp;quot;http://www.example.org&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;If you enabled &lt;code&gt;detailed_list&lt;/code&gt; for publications in &lt;code&gt;config.toml&lt;/code&gt;, then there are a few more optional variables that you can include in the publication page preamble. You may use &lt;code&gt;abstract_short = &amp;quot;friendly summary of abstract&amp;quot;&lt;/code&gt; and &lt;code&gt;publication_short = &amp;quot;abbreviated publication details&amp;quot;&lt;/code&gt; to display a friendly summary of the abstract and abbreviate the publication details, respectively. Furthermore, there is the option to display a different image on the homepage to the publication detail page by setting &lt;code&gt;image_preview = &amp;quot;my-image.jpg&amp;quot;&lt;/code&gt;. This can be useful if you wish to scale down the image for the homepage or simply if you just wish to show a different image for the preview.&lt;/p&gt;
-
-&lt;h2 id=&#34;post-an-article&#34;&gt;Post an article&lt;/h2&gt;
-
-&lt;p&gt;To create a blog/news article:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo new post/my-article-name.md
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Then edit the newly created file &lt;code&gt;content/post/my-article-name.md&lt;/code&gt; with your full title and content.&lt;/p&gt;
-
-&lt;h2 id=&#34;create-a-project&#34;&gt;Create a project&lt;/h2&gt;
-
-&lt;p&gt;To create a project:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo new project/my-project-name.md
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Then edit the newly created file &lt;code&gt;content/project/my-project-name.md&lt;/code&gt;. Either you can link the project to an external project website by setting the &lt;code&gt;external_link = &amp;quot;http://external-project.com&amp;quot;&lt;/code&gt; variable at the top of the file, or you can add content (below the final &lt;code&gt;+++&lt;/code&gt;) in order to render a project page on your website.&lt;/p&gt;
-
-&lt;h2 id=&#34;removing-content&#34;&gt;Removing content&lt;/h2&gt;
-
-&lt;p&gt;Generally, to remove content, simply delete the relevant file from your &lt;code&gt;content/post&lt;/code&gt;, &lt;code&gt;content/publication&lt;/code&gt;, &lt;code&gt;content/project&lt;/code&gt;, or &lt;code&gt;content/home&lt;/code&gt; folder.&lt;/p&gt;
-
-&lt;h2 id=&#34;view-your-updated-site&#34;&gt;View your updated site&lt;/h2&gt;
-
-&lt;p&gt;After you have made changes to your site, you can view it by running the &lt;code&gt;hugo server --watch&lt;/code&gt; command and then opening &lt;a href=&#34;http://localhost:1313&#34;&gt;localhost:1313&lt;/a&gt; in your web browser.&lt;/p&gt;
-
-&lt;h2 id=&#34;deploy-your-site&#34;&gt;Deploy your site&lt;/h2&gt;
-
-&lt;p&gt;Finally, you can build the static website to a &lt;code&gt;public/&lt;/code&gt; folder ready for deployment using the &lt;code&gt;hugo&lt;/code&gt; command.&lt;/p&gt;
-
-&lt;p&gt;You may then deploy your site by copying the &lt;code&gt;public/&lt;/code&gt; directory (by FTP, SFTP, WebDAV, Rsync, git push, etc.) to your production web server.&lt;/p&gt;
-
-&lt;p&gt;Note that running &lt;code&gt;hugo&lt;/code&gt; does not remove any previously generated files before building. Therefore, it&amp;rsquo;s best practice to delete your &lt;code&gt;public/&lt;/code&gt; directory prior to running &lt;code&gt;hugo&lt;/code&gt; to ensure no old or interim files are deployed to your server.&lt;/p&gt;
 </description>
     </item>
     

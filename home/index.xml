@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Academic Theme</title>
-    <link>http://replace-this-with-your-website-url.com/home/</link>
+    <link>https://justin-hayes.github.io/home/</link>
     <description>Recent content in Homes on Academic Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-website-url.com/home/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://justin-hayes.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>about</title>
-      <link>http://replace-this-with-your-website-url.com/home/about/</link>
+      <link>https://justin-hayes.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-website-url.com/home/about/</guid>
+      <guid>https://justin-hayes.github.io/home/about/</guid>
       <description>
 
 &lt;h1 id=&#34;biography&#34;&gt;Biography&lt;/h1&gt;
@@ -28,10 +28,10 @@
     
     <item>
       <title>teaching</title>
-      <link>http://replace-this-with-your-website-url.com/home/teaching/</link>
+      <link>https://justin-hayes.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-website-url.com/home/teaching/</guid>
+      <guid>https://justin-hayes.github.io/home/teaching/</guid>
       <description>&lt;p&gt;I am a teaching instructor for the following courses at University X:&lt;/p&gt;
 
 &lt;ul&gt;

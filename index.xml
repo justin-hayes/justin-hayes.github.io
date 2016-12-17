@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Justin&#39;s Blog</title>
-    <link>https://justin-hayes.github.io/</link>
-    <description>Recent content on Justin&#39;s Blog</description>
+    <title>Justin Hayes</title>
+    <link>https://justin-hayes.github.io/index.xml</link>
+    <description>Recent content on Justin Hayes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2016 Justin Hayes</copyright>
+    <language>en</language>
+    <copyright>&amp;copy; &lt;a href=&#34;https://justin-hayes.github.io/&#34;&gt;Justin Hayes&lt;/a&gt; 2016</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 12:00:00 +0000</lastBuildDate>
     <atom:link href="https://justin-hayes.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -136,20 +136,6 @@ $ git pull upstream
 &lt;p&gt;Copyright 2016 &lt;a href=&#34;https://georgecushen.com&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>https://justin-hayes.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://justin-hayes.github.io/home/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;biography&#34;&gt;Biography&lt;/h1&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. Etiam iaculis libero hendrerit ipsum tempus accumsan. Praesent ex justo, aliquam bibendum nulla in, vehicula rhoncus massa. Fusce gravida mattis tellus vel commodo. Etiam molestie non ligula ac venenatis. Integer semper diam at fringilla dapibus. Nunc tincidunt lacinia nisi, sed blandit purus fermentum vel. Morbi tempus dolor dolor. Phasellus scelerisque est elit, et porttitor mauris faucibus sit amet. Phasellus sollicitudin bibendum sem eu blandit. Curabitur congue felis eu velit faucibus porta. Curabitur a pharetra diam.&lt;/p&gt;
 </description>
     </item>
     

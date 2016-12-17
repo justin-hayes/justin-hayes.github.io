@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on Justin&#39;s Blog</title>
-    <link>https://justin-hayes.github.io/tags/hugo/</link>
-    <description>Recent content in Hugo on Justin&#39;s Blog</description>
+    <title>Justin Hayes</title>
+    <link>https://justin-hayes.github.io/tags/hugo/index.xml</link>
+    <description>Recent content on Justin Hayes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2016 Justin Hayes</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 12:00:00 +0000</lastBuildDate>
+    <language>en</language>
+    <copyright>&amp;copy; &lt;a href=&#34;https://justin-hayes.github.io/&#34;&gt;Justin Hayes&lt;/a&gt; 2016</copyright>
     <atom:link href="https://justin-hayes.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>

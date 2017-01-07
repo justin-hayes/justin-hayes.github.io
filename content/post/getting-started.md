@@ -1,119 +1,25 @@
 +++
 date = "2016-04-20T12:00:00"
 draft = false
-tags = ["academic", "hugo"]
-title = "Getting started with the Academic theme for Hugo"
+tags = ["dummy"]
+title = "Lorem ipsum"
 math = true
 +++
 
-The Academic theme enables you to easily create a personal academic website using the [Hugo](https://gohugo.io) static site generator.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc cursus cursus est, auctor tempus justo gravida id. Ut lacinia semper interdum. Nullam ornare mi neque, in consequat diam molestie quis. Integer porta interdum magna, ac commodo orci cursus vitae. Pellentesque posuere, sem id auctor dapibus, ex metus laoreet ligula, non fermentum quam tellus sagittis dui. Ut ultrices, ligula consectetur suscipit congue, dolor felis ullamcorper nulla, non suscipit felis purus eu urna. Nam non ex arcu. Ut sit amet justo eu ligula placerat egestas. Nullam nibh nibh, mollis eget justo non, tempus congue arcu. Duis eu enim sit amet odio aliquam lacinia at in elit. In id ligula mauris. Curabitur eu diam vitae nunc maximus cursus.
 
-Key features:
+### Subheader 1
 
-- Designed for academic staff, students, or general personal use
-- Includes Biography, Publications, Projects, News/Blog, Teaching, and Contact sections
-- Write in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for easy formatting and code highlighting, with [LaTeX](https://en.wikibooks.org/wiki/LaTeX/Mathematics) for mathematical expressions
-- Academic linking (Scholar etc.), Google Analytics, and Disqus comments
-- Responsive and mobile friendly
-- Simple and refreshing one page design
-- Easy to customize
+Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean in risus ut nisl semper aliquam. Aenean ex libero, finibus vel pulvinar vitae, cursus a neque. Ut maximus vehicula dolor, viverra varius eros. Proin gravida ut ex at aliquet. Morbi consequat, sem nec viverra accumsan, ex sapien convallis lectus, quis laoreet est tortor vel neque. Nulla molestie ligula sit amet turpis tempus cursus. Praesent blandit velit enim, nec viverra lectus ultricies vitae. Etiam eleifend cursus nunc, vel molestie purus gravida nec. Fusce vel sem et magna euismod pellentesque. Nunc iaculis eros at dictum ullamcorper. Aenean metus neque, interdum at dapibus ut, rutrum et ligula. Quisque tristique varius imperdiet.
 
+#### Subsubheader 1
 
-## Installation
+Sed erat erat, vehicula at lacus bibendum, lacinia pharetra ex. Proin dictum blandit risus, ut tempor ex venenatis ut. Nulla id metus imperdiet, rhoncus risus lobortis, maximus purus. Integer congue bibendum viverra. Vestibulum consectetur lorem ultricies dui tempor malesuada. Pellentesque lacinia hendrerit consectetur. Proin sit amet enim ut quam euismod auctor eu at est. Praesent a ipsum sit amet elit vulputate faucibus non a ex.
 
-1. Install [Hugo](https://gohugo.io/overview/installing/) and create a new website:
+#### Subsubheader 2
 
-        hugo new site my_website
-        cd my_website
+Vivamus volutpat ullamcorper mi sed consectetur. Proin lacinia vitae nisl quis dapibus. Donec nec metus elit. Morbi efficitur eu nisl id dictum. Fusce accumsan ante in convallis elementum. Sed vestibulum magna eget facilisis tincidunt. Proin ullamcorper porta efficitur. Aenean nec pharetra massa, eget venenatis ex. Proin sit amet rutrum orci, gravida porttitor elit. In pretium venenatis massa nec tincidunt.
 
-2. Install Academic theme with [git](https://help.github.com/articles/set-up-git/):
+### Subheader 2
 
-        git clone https://github.com/gcushen/hugo-academic.git themes/academic
-
-    Or alternatively, [download Academic](https://github.com/gcushen/hugo-academic/archive/master.zip) and extract it into a `themes/academic` folder within your Hugo website.
-
-3. If you are creating a new website, copy the contents of the `exampleSite` folder to your website root folder, overwriting existing files if necessary. The `exampleSite` folder contains an example config file and content to help you get started.
-
-        cp -av themes/academic/exampleSite/* .
-
-4. Start the Hugo server from your website root folder:
-
-        hugo server --watch
-
-    Now you can go to [localhost:1313](http://localhost:1313) and your new Academic themed website should appear.
-
-5. Customize your website (see next section), build it by running `hugo`, and deploy it by copying the `public/` directory (by FTP, Rsync, git push, etc.) to your production web server.
-
-
-## Getting Started
-
-Assuming you created a new website with the example content following the installation steps above, this section explores just a few more steps in order to customize it.
-
-The core parameters for the website can be edited in the `config.toml` configuration file.
-
-As can be seen in the example `config.toml`, the social/academic networking icons and education qualifications are defined as multiples of `[[params.social]]` and `[[params.about.education]]` respectively. They can be duplicated or deleted as necessary.
-
-By default, publications will be displayed in a simple list. If you prefer a more detailed list with abstract and image, you can enable the detailed publication list on the homepage by setting `detailed_list = true` under `[params.publications]`.
-
-For deployment, the `baseURL` variable should be changed to match your website URL such as `baseURL = "http://your-site.org/"`. The example Disqus commenting variable should be cleared (e.g. `disqusShortname = ""`) or set to your own Disqus shortname to enable commenting. To enable Google Analytics, add your tracking code in `config.toml` similarly to `googleAnalytics = "UA-12345678-9"`.
-
-Next, you may be interested to read the guide about [managing content]({{< ref "post/managing-content.md" >}}), or continue reading below for advanced customization tips and instructions for keeping the theme up-to-date with any improvements that become available.
-
-
-## Advanced customization
-
-It is possible to carry out many customizations without touching any files in `themes/academic`, making it easier to upgrade the theme in the future.
-
-### Custom theme color (CSS) or JavaScript (JS)
-
-You can link custom CSS and JS assets (relative to your root `static/css` and `static/js` respectively) from your `config.toml` using `custom_css = ["custom.css"]` or `custom_js  = ["custom.js"]`.
-
-For example, lets make a green theme. First, define `custom_css = ["green.css"]` in `config.toml`. Then we can download the example [green theme](https://gist.github.com/gcushen/d5525a4506b9ccf83f2bce592a895495) and save it as `static/css/green.css`, relative to your website root (i.e. **not** in the `themes` directory).
-
-### Permalinks
-
-*Permalinks*, or *permanent links*, are URLs to individual pages and posts on your website. They are permanent web addresses which can be used to link to your content. Using Hugo's *permalinks* option these can be easily customized. For example, the blog post URL can be changed to the form *yourURL/2016/05/01/my-post-slug* by adding the following near the top of your `config.toml` (before `[params]` settings):
-
-    [permalinks]
-        post = "/:year/:month/:day/:slug"
-
-Where `:slug` defaults to the filename of the post, excluding the file extension. However, slug may be overridden on a per post basis if desired, simply by setting `slug = "my-short-post-title"` in your post preamble.
-
-
-## Upgrading
-
-Feel free to *star* the project on [Github](https://github.com/gcushen/hugo-academic/) and monitor the commits for updates.
-
-Before upgrading the theme, it is recommended to make a backup of your entire website directory, or at least your `themes/academic` directory. You can also read about the [most recent milestones](https://github.com/gcushen/hugo-academic/releases) (but this doesn't necessarily reflect the latest *master* release).
-
-Before upgrading for the first time, the remote *origin* repository should be renamed to *upstream*:
-
-    $ cd themes/academic
-    $ git remote rename origin upstream
-
-To list available updates:
-
-    $ cd themes/academic
-    $ git fetch upstream
-    $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
-
-Upgrade by running:
-
-    $ cd themes/academic
-    $ git pull upstream
-
-If you have modified files in `themes/academic`, git will attempt to auto-merge changes. If conflicts are reported, you will need to manually edit the files with conflicts and add them back (`git add <filename>`).
-
-If there are any issues after upgrading, you may wish to compare your site with the latest [example site](https://github.com/gcushen/hugo-academic/tree/master/exampleSite) to check if any settings changed.
-
-
-## Contributing
-
-Please use the [issue tracker](https://github.com/gcushen/hugo-academic/issues) to let me know about any bugs or feature requests, or alternatively make a pull request.
-
-
-## License
-
-Copyright 2016 [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis vestibulum nunc at neque sollicitudin porttitor. Quisque eget aliquam ligula. Vivamus pretium risus nec euismod posuere. Curabitur tempus tempor odio sed lacinia. Nulla sodales feugiat nibh, dictum cursus ipsum gravida a. Ut vestibulum ut velit vel malesuada. Donec interdum enim vel semper volutpat. In nec semper turpis. Curabitur porta pulvinar sapien.

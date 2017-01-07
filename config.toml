@@ -1,12 +1,14 @@
 baseurl = "https://justin-hayes.github.io/"
 languageCode = "en"
 title = "Justin Hayes"
-theme = "hemingway"
+theme = "hugo-theme-blueberry-detox"
 copyright = "&copy; <a href=\"https://justin-hayes.github.io/\">Justin Hayes</a> 2016"
 #disqusShortname = ""
 #googleAnalytics = ""
 
 [params]
+author = "Justin Hayes"
+description = "My personal blog"
 
 [params.highlight]
 style = "github"

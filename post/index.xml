@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post-rsses on Justin Hayes</title>
+    <title>Post-rsses on 孤云独去闲</title>
     <link>https://justin-hayes.github.io/post/index.xml</link>
-    <description>Recent content in Post-rsses on Justin Hayes</description>
+    <description>Recent content in Post-rsses on 孤云独去闲</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://justin-hayes.github.io/&#34;&gt;Justin Hayes&lt;/a&gt; 2016</copyright>
@@ -11,131 +11,30 @@
     <atom:link href="https://justin-hayes.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Getting started with the Academic theme for Hugo</title>
+      <title>Lorem ipsum</title>
       <link>https://justin-hayes.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
       
       <guid>https://justin-hayes.github.io/post/getting-started/</guid>
       <description>
 
-&lt;p&gt;The Academic theme enables you to easily create a personal academic website using the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc cursus cursus est, auctor tempus justo gravida id. Ut lacinia semper interdum. Nullam ornare mi neque, in consequat diam molestie quis. Integer porta interdum magna, ac commodo orci cursus vitae. Pellentesque posuere, sem id auctor dapibus, ex metus laoreet ligula, non fermentum quam tellus sagittis dui. Ut ultrices, ligula consectetur suscipit congue, dolor felis ullamcorper nulla, non suscipit felis purus eu urna. Nam non ex arcu. Ut sit amet justo eu ligula placerat egestas. Nullam nibh nibh, mollis eget justo non, tempus congue arcu. Duis eu enim sit amet odio aliquam lacinia at in elit. In id ligula mauris. Curabitur eu diam vitae nunc maximus cursus.&lt;/p&gt;
 
-&lt;p&gt;Key features:&lt;/p&gt;
+&lt;h3 id=&#34;subheader-1&#34;&gt;Subheader 1&lt;/h3&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Designed for academic staff, students, or general personal use&lt;/li&gt;
-&lt;li&gt;Includes Biography, Publications, Projects, News/Blog, Teaching, and Contact sections&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
-&lt;li&gt;Academic linking (Scholar etc.), Google Analytics, and Disqus comments&lt;/li&gt;
-&lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
-&lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;Easy to customize&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean in risus ut nisl semper aliquam. Aenean ex libero, finibus vel pulvinar vitae, cursus a neque. Ut maximus vehicula dolor, viverra varius eros. Proin gravida ut ex at aliquet. Morbi consequat, sem nec viverra accumsan, ex sapien convallis lectus, quis laoreet est tortor vel neque. Nulla molestie ligula sit amet turpis tempus cursus. Praesent blandit velit enim, nec viverra lectus ultricies vitae. Etiam eleifend cursus nunc, vel molestie purus gravida nec. Fusce vel sem et magna euismod pellentesque. Nunc iaculis eros at dictum ullamcorper. Aenean metus neque, interdum at dapibus ut, rutrum et ligula. Quisque tristique varius imperdiet.&lt;/p&gt;
 
-&lt;h2 id=&#34;installation&#34;&gt;Installation&lt;/h2&gt;
+&lt;h4 id=&#34;subsubheader-1&#34;&gt;Subsubheader 1&lt;/h4&gt;
 
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Install &lt;a href=&#34;https://gohugo.io/overview/installing/&#34;&gt;Hugo&lt;/a&gt; and create a new website:&lt;/p&gt;
+&lt;p&gt;Sed erat erat, vehicula at lacus bibendum, lacinia pharetra ex. Proin dictum blandit risus, ut tempor ex venenatis ut. Nulla id metus imperdiet, rhoncus risus lobortis, maximus purus. Integer congue bibendum viverra. Vestibulum consectetur lorem ultricies dui tempor malesuada. Pellentesque lacinia hendrerit consectetur. Proin sit amet enim ut quam euismod auctor eu at est. Praesent a ipsum sit amet elit vulputate faucibus non a ex.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;hugo new site my_website
-cd my_website
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;h4 id=&#34;subsubheader-2&#34;&gt;Subsubheader 2&lt;/h4&gt;
 
-&lt;li&gt;&lt;p&gt;Install Academic theme with &lt;a href=&#34;https://help.github.com/articles/set-up-git/&#34;&gt;git&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;Vivamus volutpat ullamcorper mi sed consectetur. Proin lacinia vitae nisl quis dapibus. Donec nec metus elit. Morbi efficitur eu nisl id dictum. Fusce accumsan ante in convallis elementum. Sed vestibulum magna eget facilisis tincidunt. Proin ullamcorper porta efficitur. Aenean nec pharetra massa, eget venenatis ex. Proin sit amet rutrum orci, gravida porttitor elit. In pretium venenatis massa nec tincidunt.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;git clone https://github.com/gcushen/hugo-academic.git themes/academic
-&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;subheader-2&#34;&gt;Subheader 2&lt;/h3&gt;
 
-&lt;p&gt;Or alternatively, &lt;a href=&#34;https://github.com/gcushen/hugo-academic/archive/master.zip&#34;&gt;download Academic&lt;/a&gt; and extract it into a &lt;code&gt;themes/academic&lt;/code&gt; folder within your Hugo website.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;If you are creating a new website, copy the contents of the &lt;code&gt;exampleSite&lt;/code&gt; folder to your website root folder, overwriting existing files if necessary. The &lt;code&gt;exampleSite&lt;/code&gt; folder contains an example config file and content to help you get started.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;cp -av themes/academic/exampleSite/* .
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Start the Hugo server from your website root folder:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo server --watch
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Now you can go to &lt;a href=&#34;http://localhost:1313&#34;&gt;localhost:1313&lt;/a&gt; and your new Academic themed website should appear.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Customize your website (see next section), build it by running &lt;code&gt;hugo&lt;/code&gt;, and deploy it by copying the &lt;code&gt;public/&lt;/code&gt; directory (by FTP, Rsync, git push, etc.) to your production web server.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;getting-started&#34;&gt;Getting Started&lt;/h2&gt;
-
-&lt;p&gt;Assuming you created a new website with the example content following the installation steps above, this section explores just a few more steps in order to customize it.&lt;/p&gt;
-
-&lt;p&gt;The core parameters for the website can be edited in the &lt;code&gt;config.toml&lt;/code&gt; configuration file.&lt;/p&gt;
-
-&lt;p&gt;As can be seen in the example &lt;code&gt;config.toml&lt;/code&gt;, the social/academic networking icons and education qualifications are defined as multiples of &lt;code&gt;[[params.social]]&lt;/code&gt; and &lt;code&gt;[[params.about.education]]&lt;/code&gt; respectively. They can be duplicated or deleted as necessary.&lt;/p&gt;
-
-&lt;p&gt;By default, publications will be displayed in a simple list. If you prefer a more detailed list with abstract and image, you can enable the detailed publication list on the homepage by setting &lt;code&gt;detailed_list = true&lt;/code&gt; under &lt;code&gt;[params.publications]&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;For deployment, the &lt;code&gt;baseURL&lt;/code&gt; variable should be changed to match your website URL such as &lt;code&gt;baseURL = &amp;quot;http://your-site.org/&amp;quot;&lt;/code&gt;. The example Disqus commenting variable should be cleared (e.g. &lt;code&gt;disqusShortname = &amp;quot;&amp;quot;&lt;/code&gt;) or set to your own Disqus shortname to enable commenting. To enable Google Analytics, add your tracking code in &lt;code&gt;config.toml&lt;/code&gt; similarly to &lt;code&gt;googleAnalytics = &amp;quot;UA-12345678-9&amp;quot;&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;Next, you may be interested to read the guide about &lt;a href=&#34;No page found with path or logical name &#34;post/managing-content.md&#34;.
-&#34;&gt;managing content&lt;/a&gt;, or continue reading below for advanced customization tips and instructions for keeping the theme up-to-date with any improvements that become available.&lt;/p&gt;
-
-&lt;h2 id=&#34;advanced-customization&#34;&gt;Advanced customization&lt;/h2&gt;
-
-&lt;p&gt;It is possible to carry out many customizations without touching any files in &lt;code&gt;themes/academic&lt;/code&gt;, making it easier to upgrade the theme in the future.&lt;/p&gt;
-
-&lt;h3 id=&#34;custom-theme-color-css-or-javascript-js&#34;&gt;Custom theme color (CSS) or JavaScript (JS)&lt;/h3&gt;
-
-&lt;p&gt;You can link custom CSS and JS assets (relative to your root &lt;code&gt;static/css&lt;/code&gt; and &lt;code&gt;static/js&lt;/code&gt; respectively) from your &lt;code&gt;config.toml&lt;/code&gt; using &lt;code&gt;custom_css = [&amp;quot;custom.css&amp;quot;]&lt;/code&gt; or &lt;code&gt;custom_js  = [&amp;quot;custom.js&amp;quot;]&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;For example, lets make a green theme. First, define &lt;code&gt;custom_css = [&amp;quot;green.css&amp;quot;]&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;. Then we can download the example &lt;a href=&#34;https://gist.github.com/gcushen/d5525a4506b9ccf83f2bce592a895495&#34;&gt;green theme&lt;/a&gt; and save it as &lt;code&gt;static/css/green.css&lt;/code&gt;, relative to your website root (i.e. &lt;strong&gt;not&lt;/strong&gt; in the &lt;code&gt;themes&lt;/code&gt; directory).&lt;/p&gt;
-
-&lt;h3 id=&#34;permalinks&#34;&gt;Permalinks&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Permalinks&lt;/em&gt;, or &lt;em&gt;permanent links&lt;/em&gt;, are URLs to individual pages and posts on your website. They are permanent web addresses which can be used to link to your content. Using Hugo&amp;rsquo;s &lt;em&gt;permalinks&lt;/em&gt; option these can be easily customized. For example, the blog post URL can be changed to the form &lt;em&gt;yourURL/2016/05/01/my-post-slug&lt;/em&gt; by adding the following near the top of your &lt;code&gt;config.toml&lt;/code&gt; (before &lt;code&gt;[params]&lt;/code&gt; settings):&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;[permalinks]
-    post = &amp;quot;/:year/:month/:day/:slug&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Where &lt;code&gt;:slug&lt;/code&gt; defaults to the filename of the post, excluding the file extension. However, slug may be overridden on a per post basis if desired, simply by setting &lt;code&gt;slug = &amp;quot;my-short-post-title&amp;quot;&lt;/code&gt; in your post preamble.&lt;/p&gt;
-
-&lt;h2 id=&#34;upgrading&#34;&gt;Upgrading&lt;/h2&gt;
-
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34;&gt;Github&lt;/a&gt; and monitor the commits for updates.&lt;/p&gt;
-
-&lt;p&gt;Before upgrading the theme, it is recommended to make a backup of your entire website directory, or at least your &lt;code&gt;themes/academic&lt;/code&gt; directory. You can also read about the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/releases&#34;&gt;most recent milestones&lt;/a&gt; (but this doesn&amp;rsquo;t necessarily reflect the latest &lt;em&gt;master&lt;/em&gt; release).&lt;/p&gt;
-
-&lt;p&gt;Before upgrading for the first time, the remote &lt;em&gt;origin&lt;/em&gt; repository should be renamed to &lt;em&gt;upstream&lt;/em&gt;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;$ cd themes/academic
-$ git remote rename origin upstream
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;To list available updates:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;$ cd themes/academic
-$ git fetch upstream
-$ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Upgrade by running:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;$ cd themes/academic
-$ git pull upstream
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;If you have modified files in &lt;code&gt;themes/academic&lt;/code&gt;, git will attempt to auto-merge changes. If conflicts are reported, you will need to manually edit the files with conflicts and add them back (&lt;code&gt;git add &amp;lt;filename&amp;gt;&lt;/code&gt;).&lt;/p&gt;
-
-&lt;p&gt;If there are any issues after upgrading, you may wish to compare your site with the latest &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34;&gt;example site&lt;/a&gt; to check if any settings changed.&lt;/p&gt;
-
-&lt;h2 id=&#34;contributing&#34;&gt;Contributing&lt;/h2&gt;
-
-&lt;p&gt;Please use the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34;&gt;issue tracker&lt;/a&gt; to let me know about any bugs or feature requests, or alternatively make a pull request.&lt;/p&gt;
-
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;Copyright 2016 &lt;a href=&#34;https://georgecushen.com&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+&lt;p&gt;Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis vestibulum nunc at neque sollicitudin porttitor. Quisque eget aliquam ligula. Vivamus pretium risus nec euismod posuere. Curabitur tempus tempor odio sed lacinia. Nulla sodales feugiat nibh, dictum cursus ipsum gravida a. Ut vestibulum ut velit vel malesuada. Donec interdum enim vel semper volutpat. In nec semper turpis. Curabitur porta pulvinar sapien.&lt;/p&gt;
 </description>
     </item>
     

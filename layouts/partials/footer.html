@@ -1,0 +1,42 @@
+<footer id="site-footer">
+  <div class="container">
+  <style type="text/css">
+  .image-cropper {
+    max-width: 100px;
+    height: auto;
+    position: relative;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+  }
+
+  .portrait {
+    display: block;
+    margin: 0 auto;
+    height: 100px;
+    width: 100px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    background:url("{{ .Site.BaseURL }}img/portrait.jpg") center no-repeat;
+    background-size:cover;
+  }
+  </style>
+
+  <div class="image-cropper">
+    <div class="portrait"></div>
+  </div>
+
+  <a href="{{ .Site.BaseURL }}index.xml" title="Get the RSS feed"><span class="tooltip"><i class="fa fa-rss"></i></span></a>
+  <section>&copy; <a href="{{ .Site.BaseURL }}">{{ .Site.Params.author }}</a> 2017 | All rights reserved</section>
+  <section>Theme by <a href="http://www.jrdnbwmn.com">Jordan Bowman</a>. Generated with <a href="http://gohugo.io/">Hugo</a>.</section>
+</div>
+</footer>
+
+<script type="text/javascript" src="{{ .Site.BaseURL }}js/fittext.js"></script>
+<script type="text/javascript">
+$(".heading").fitText();
+</script>

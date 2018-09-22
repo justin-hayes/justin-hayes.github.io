@@ -2,6 +2,6 @@
 	path = public
 	url = git@github.com:justin-hayes/justin-hayes.github.io.git
 	branch = master
-[submodule "themes/hugo-theme-blueberry-detox"]
-	path = themes/hugo-theme-blueberry-detox
-	url = https://github.com/allnightgrocery/hugo-theme-blueberry-detox
+[submodule "themes/tale"]
+	path = themes/tale
+	url = git://github.com/justin-hayes/tale-hugo.git

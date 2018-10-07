@@ -19,6 +19,12 @@
   </url>
   
   <url>
+    <loc>https://justinhayes.me/</loc>
+    <lastmod>2016-04-20T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://justinhayes.me/post/</loc>
     <lastmod>2016-04-20T12:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -26,12 +32,6 @@
   
   <url>
     <loc>https://justinhayes.me/tags/</loc>
-    <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://justinhayes.me/</loc>
     <lastmod>2016-04-20T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

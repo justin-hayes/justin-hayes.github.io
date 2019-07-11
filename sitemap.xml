@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://justinhayes.me/post/getting-started/</loc>
-    <lastmod>2016-04-20T12:00:00+00:00</lastmod>
+    <loc>https://justinhayes.me/post/jact-reading-greek-7d-translation/</loc>
+    <lastmod>2019-07-11T07:13:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://justinhayes.me/projects/</loc>
+    <lastmod>2019-06-15T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://justinhayes.me/about/</loc>
+    <lastmod>2019-06-15T11:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13,26 +23,19 @@
   </url>
   
   <url>
-    <loc>https://justinhayes.me/tags/dummy/</loc>
-    <lastmod>2016-04-20T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://justinhayes.me/</loc>
-    <lastmod>2016-04-20T12:00:00+00:00</lastmod>
+    <lastmod>2019-07-11T07:13:31-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://justinhayes.me/post/</loc>
-    <lastmod>2016-04-20T12:00:00+00:00</lastmod>
+    <lastmod>2019-07-11T07:13:31-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://justinhayes.me/tags/</loc>
-    <lastmod>2016-04-20T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

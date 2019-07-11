@@ -1,7 +1,7 @@
 baseurl = "https://justinhayes.me/"
 languageCode = "en"
 title = "Justin Hayes"
-theme = "tale"
+theme = "hyde"
 copyright = "&copy; <a href=\"https://justin-hayes.github.io/\">Justin Hayes</a> 2016"
 #disqusShortname = ""
 #googleAnalytics = ""
@@ -9,7 +9,7 @@ copyright = "&copy; <a href=\"https://justin-hayes.github.io/\">Justin Hayes</a>
 [params]
 author = "Justin Hayes"
 subtitle = "Justin Hayes's Blog"
-description = "Nothing-special thoughts"
+description = "Personal blog"
 
 [params.highlight]
 style = "github"

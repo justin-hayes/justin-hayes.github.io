@@ -2,6 +2,6 @@
 	path = public
 	url = git@github.com:justin-hayes/justin-hayes.github.io.git
 	branch = master
-[submodule "themes/tale"]
-	path = themes/tale
-	url = git://github.com/justin-hayes/tale-hugo.git
+[submodule "themes/hyde"]
+	path = themes/hyde
+	url = https://github.com/spf13/hyde.git

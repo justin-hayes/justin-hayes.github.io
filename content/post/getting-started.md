@@ -1,11 +1,8 @@
 +++
-date = "2016-04-20T12:00:00"
-draft = false
-tags = ["dummy"]
 title = "Lorem ipsum"
-math = true
+date = "2019-06-15T13:00:00"
+draft = false
 +++
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc cursus cursus est, auctor tempus justo gravida id. Ut lacinia semper interdum. Nullam ornare mi neque, in consequat diam molestie quis. Integer porta interdum magna, ac commodo orci cursus vitae. Pellentesque posuere, sem id auctor dapibus, ex metus laoreet ligula, non fermentum quam tellus sagittis dui. Ut ultrices, ligula consectetur suscipit congue, dolor felis ullamcorper nulla, non suscipit felis purus eu urna. Nam non ex arcu. Ut sit amet justo eu ligula placerat egestas. Nullam nibh nibh, mollis eget justo non, tempus congue arcu. Duis eu enim sit amet odio aliquam lacinia at in elit. In id ligula mauris. Curabitur eu diam vitae nunc maximus cursus.
 
 ### Subheader 1

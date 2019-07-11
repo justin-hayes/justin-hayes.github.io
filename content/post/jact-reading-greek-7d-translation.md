@@ -10,7 +10,7 @@ Dionysodoros conversing with many others. And you at least<sup>2</sup> know both
 that have fine reputations, since they urge people to philosophy. So I was
 wanting to hear their words<sup>3</sup>:
 
-"You then," I said, "Dionysodorus, do you have a reputation of urging people to
+"You then," I said, "Dionysodoros, do you have a reputation of urging people to
 philosophy and virtue, or not?"
 
 "Indeed we have that reputation<sup>4</sup>, Socrates", he said.

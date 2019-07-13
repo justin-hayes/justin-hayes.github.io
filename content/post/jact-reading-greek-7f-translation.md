@@ -1,6 +1,6 @@
 ---
 title: "JACT Reading Greek 7F Translation"
-date: 2019-7-13T11:44:00-04:00
+date: 2019-07-13T11:44:00-04:00
 draft: false
 ---
 When Euthydemos concludes his argument, Dionysodorus makes the case for the contradiction.<!--more-->
@@ -19,4 +19,4 @@ the arguments, the clever or the ignorant ones?
 And from then making a din and with laughter, the students at once praised this
 wisdom. And we, falling into perplexity, were silent.
 ## Comment
-The independent study guide consistently translates [σοφία](<insert link>) as cleverness, which better matches the playful tone of these dialogues.
+The independent study guide consistently translates [σοφία](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0058%3Aentry%3Dsofi%2Fa) as cleverness, which better matches the playful tone of these dialogues.

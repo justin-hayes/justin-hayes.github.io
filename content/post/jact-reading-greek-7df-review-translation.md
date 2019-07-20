@@ -1,5 +1,5 @@
 ---
-title: "JACT Reading Greek Section 7 Review Translation"
+title: "JACT Reading Greek Section 7D-F Review Translation"
 date: 2019-07-16T17:35:00-04:00
 draft: false 
 ---

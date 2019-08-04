@@ -37,7 +37,7 @@ but of the doctors, if some one happens to be the most experienced?<sup>3</sup> 
 or not?"
 
 "Yes, we say thus, by Zeus," I said.
-## Comment
+## Comments
 1. The independent study guide gives "and if you have anything" for καὶ εἴ τι ἔχεις.
 2. The ISG gives "should" for [δεῖ](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0058%3Aentry%3Ddei%3D) in several places.
 3. The ISG gives a meaning closer to "...if any skilled doctor happens to be [available]" for εἴ τις ἐμπeιρότατος τυγχάνει ὤν. 

@@ -18,6 +18,6 @@ the arguments, the clever or the ignorant ones?
 
 And from then making a din and with laughter, the students at once praised this
 wisdom. And we, falling into perplexity, were silent.
-## Comment
+## Comments
 1. The independent study guide consistently translates [σοφία](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0058%3Aentry%3Dsofi%2Fa) as cleverness, which better matches the playful tone of these dialogues.
 2. The independent study guide gives the slightly more fluent "...and you did not answer well just now."

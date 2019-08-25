@@ -3,7 +3,7 @@ title: "JACT Reading Greek Section 7 Review Translation"
 date: 2019-08-19T19:41:00-04:00
 draft: false 
 ---
-A brief synopsis of the preceding readings about the Amazons.<!--more-->
+The section seven review translation is a synopsis of the preceding readings about the Amazons.<!--more-->
 ## Translation
 Some Amazons, on arriving in the land of the Scythians and departing their
 ships, fell upon the land and laid waste to it. The Scythians, on defeating 

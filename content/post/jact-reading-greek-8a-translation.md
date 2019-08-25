@@ -3,7 +3,7 @@ title: "JACT Reading Greek Section 8A Translation"
 date: 2019-08-25T11:00:00-04:00
 draft: false 
 ---
-The story returns to Dikaiopolis and the rhapsode as they leave the chaotic scene at the Piraeus and the Long Walls, heading towards the center of Athens.<!--more-->
+The story returns to Dikaiopolis and the rhapsode as they leave the chaotic scene at the Piraeus and the Long Walls, and head towards the center of Athens.<!--more-->
 ## Translation
 _Dikaiopolis, having seen the lawlessness of the Eleven and heard the words of the suppliant, departs through the crowd of citizens towards the agora with the rhapsode. And Euelpides, the son of Polemarkhos, sees him going off towards the agora with the rhapsode, and on seeing them he sends his slave to them. So the slave of Euelpides comes toward Dikaiopolis, and approaching he shouts._
 

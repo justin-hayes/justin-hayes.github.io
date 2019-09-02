@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://justinhayes.me/post/jact-reading-greek-9a-translation/</loc>
+    <lastmod>2019-09-02T18:30:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://justinhayes.me/post/jact-reading-greek-8c-translation/</loc>
     <lastmod>2019-08-28T18:50:00-04:00</lastmod>
   </url>
@@ -15,11 +20,6 @@
   <url>
     <loc>https://justinhayes.me/post/jact-reading-greek-8a-translation/</loc>
     <lastmod>2019-08-25T11:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://justinhayes.me/post/jact-reading-greek-section-7-review-translation/</loc>
-    <lastmod>2019-08-19T19:41:00-04:00</lastmod>
   </url>
   
   <url>
@@ -69,13 +69,13 @@
   
   <url>
     <loc>https://justinhayes.me/</loc>
-    <lastmod>2019-08-28T18:50:00-04:00</lastmod>
+    <lastmod>2019-09-02T18:30:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://justinhayes.me/post/</loc>
-    <lastmod>2019-08-28T18:50:00-04:00</lastmod>
+    <lastmod>2019-09-02T18:30:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   

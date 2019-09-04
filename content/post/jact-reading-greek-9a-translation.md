@@ -3,7 +3,7 @@ title: "JACT Reading Greek Section 9A Translation"
 date: 2019-09-02T18:30:00-04:00
 draft: false 
 ---
-Sosias and Xanthias, two actors in a comedy, are onstage portraying slaves that stand guard at the front door of a house. They turn to the audience and introduce the play.<!--more-->
+Sosias and Xanthias, two actors in a comedy, are onstage portraying slaves that guard the front door of a house. They turn to the audience and introduce the play.<!--more-->
 ## Translation
 _In front of the house are two slaves. At first they are conversing with each other, then to the audience._
 

@@ -3,7 +3,7 @@ title: "JACT Reading Greek Section 9C Translation"
 date: 2019-09-04T21:30:00-04:00
 draft: false 
 ---
-Xanthias takes pity on the audience and tells them the true nature of the old man's illness.<!--more-->
+Xanthias takes pity on the spectators and tells them the true nature of the old man's illness.<!--more-->
 ## Translation
 __Xanthias__: You will never find out the answer, spectators. If indeed you want to
 know what sickness has befallen his father, be silent now. For I will tell to you, who are indeed in perplexity, the old man's illness. He is a lover of being a

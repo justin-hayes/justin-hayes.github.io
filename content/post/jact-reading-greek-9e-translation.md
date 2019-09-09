@@ -1,6 +1,6 @@
 ---
-title: "Jact Reading Greek 9E Translation"
-date: 2019-09-087T08:00:00-04:00
+title: "JACT Reading Greek 9E Translation"
+date: 2019-09-08T08:00:00-04:00
 draft: false 
 ---
 Philokleon enjoys a moment of freedom thanks to a plan inspired by Homer.<!--more-->

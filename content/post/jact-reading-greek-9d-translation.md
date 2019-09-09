@@ -1,5 +1,5 @@
 ---
-title: "Jact Reading Greek 9D Translation"
+title: "JACT Reading Greek 9D Translation"
 date: 2019-09-07T09:30:00-04:00
 draft: false 
 ---

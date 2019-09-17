@@ -3,7 +3,7 @@ title: "JACT Reading Greek 9G Translation"
 date: 2019-09-17T07:40:00-04:00
 draft: false 
 ---
-<!--more-->
+Bdelykleon's lawcourt is complete, and they prepare for the first trial.<!--more-->
 ## Translation
 __Bdelykleon__: Does everything please you, father? Tell me.
 

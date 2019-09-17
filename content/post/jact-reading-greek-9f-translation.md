@@ -3,7 +3,7 @@ title: "JACT Reading Greek 9F Translation"
 date: 2019-09-17T07:25:00-04:00
 draft: false 
 ---
-<!--more-->
+Bdelykleon stages a lawcourt in his father's house in the latest gambit to keep him inside and away from the Athenian courts.<!--more-->
 ## Translation
 _(Bdelykleon is speaking to his father)_
 

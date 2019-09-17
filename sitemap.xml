@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://justinhayes.me/post/jact-reading-greek-9f-translation/</loc>
+    <lastmod>2019-09-17T07:25:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://justinhayes.me/post/jact-reading-greek-9e-translation/</loc>
     <lastmod>2019-09-08T08:00:00-04:00</lastmod>
   </url>
@@ -89,13 +94,13 @@
   
   <url>
     <loc>https://justinhayes.me/</loc>
-    <lastmod>2019-09-08T08:00:00-04:00</lastmod>
+    <lastmod>2019-09-17T07:25:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://justinhayes.me/post/</loc>
-    <lastmod>2019-09-08T08:00:00-04:00</lastmod>
+    <lastmod>2019-09-17T07:25:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   

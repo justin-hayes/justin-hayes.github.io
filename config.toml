@@ -5,11 +5,15 @@ theme = "hyde"
 copyright = "&copy; <a href=\"https://justin-hayes.github.io/\">Justin Hayes</a> 2016"
 #disqusShortname = ""
 #googleAnalytics = ""
-
 [params]
 author = "Justin Hayes"
 subtitle = "Justin Hayes's Blog"
 description = "Personal blog"
+
+[menu]
+  [[menu.main]]
+    name = "Commonplace"
+    url = "/commonplace/"
 
 [params.highlight]
 style = "github"

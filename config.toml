@@ -1,4 +1,4 @@
-baseurl = "https://www.justinhayes.me/"
+baseurl = "https://justinhayes.me/"
 languageCode = "en"
 title = "Justin Hayes"
 theme = "hyde"

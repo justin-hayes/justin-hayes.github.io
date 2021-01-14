@@ -6,10 +6,6 @@
     <description>Recent content in Categories on Justin Hayes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>&amp;copy; &lt;a href=&#34;https://justin-hayes.github.io/&#34;&gt;Justin Hayes&lt;/a&gt; 2016</copyright>
-    
-	<atom:link href="https://justinhayes.me/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>&amp;copy; &lt;a href=&#34;https://justin-hayes.github.io/&#34;&gt;Justin Hayes&lt;/a&gt; 2016</copyright><atom:link href="https://justinhayes.me/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

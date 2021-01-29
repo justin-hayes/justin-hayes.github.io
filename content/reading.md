@@ -6,3 +6,4 @@ menu = "main"
 # 2021
 ## Italian
 1. Ordine, Nuccio. _L'Utilità dell'inutile_. Firenze, Bompiani, 2013.
+2. Barbero, Alessandro. _Dante_. Bari, Laterza, 2020.

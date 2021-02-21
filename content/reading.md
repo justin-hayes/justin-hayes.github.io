@@ -7,3 +7,4 @@ menu = "main"
 ## Italian
 1. Ordine, Nuccio. _L'Utilità dell'inutile_. Firenze, Bompiani, 2013.
 2. Barbero, Alessandro. _Dante_. Bari, Laterza, 2020.
+3. Malaparte, Curzio. _La pelle_. Milano, Adelphi, 2010.

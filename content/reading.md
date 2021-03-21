@@ -8,3 +8,4 @@ menu = "main"
 1. Ordine, Nuccio. _L'Utilità dell'inutile_. Firenze, Bompiani, 2013.
 2. Barbero, Alessandro. _Dante_. Bari, Laterza, 2020.
 3. Malaparte, Curzio. _La pelle_. Milano, Adelphi, 2010.
+4. Cazzullo, Aldo. _A riveder le stelle_. Milano, Mondadori, 2020.

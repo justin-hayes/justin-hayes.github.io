@@ -10,11 +10,6 @@ author = "Justin Hayes"
 subtitle = "Justin Hayes's Blog"
 description = "Personal blog"
 
-[menu]
-  [[menu.main]]
-    name = "Commonplace"
-    url = "/commonplace/"
-
 [params.highlight]
 style = "github"
 languages = ["go", "dockerfile"]

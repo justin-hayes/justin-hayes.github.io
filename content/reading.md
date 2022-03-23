@@ -4,6 +4,9 @@ date = "2021-01-13T11:00:00"
 menu = "main"
 +++
 ## 2022
+### Italian
+#### Magazines
+- De Mauro, Giovanni, et al. _Internazionale_ #1423-#1425. Roma, Internazionale spa, 2021.
 ### English
 #### Books
 1. Kim, Un-Su. _The Cabinet_. London, Angry Robot, 2021.

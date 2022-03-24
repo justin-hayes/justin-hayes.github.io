@@ -1,7 +1,6 @@
 +++
 title = "Reading"
 date = "2021-01-13T11:00:00"
-menu = "main"
 +++
 ## 2022
 ### Italian

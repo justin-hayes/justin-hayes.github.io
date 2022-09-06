@@ -39,7 +39,7 @@ date = "2021-01-13T11:00:00"
 1. Kim, Un-Su. _The Cabinet_. London, Angry Robot, 2021.
 2. Hankins, James. _Virtue Politics_. Cambridge, Harvard University Press, 2019.
 3. Knausgaard, Karl Ove. _In the Land of the Cyclops_. New York, Archipelago Books, 2021.
-4. Rauschmayer, Axel. _JavaSript for Impatient Programmers (ES2022 edition)_. PDF file. 6 September 2022. https://exploringjs.com/impatient-js/
+4. Rauschmayer, Axel. _JavaScript for Impatient Programmers (ES2022 edition)_. PDF file. 6 September 2022. https://exploringjs.com/impatient-js/
 
 ## 2021
 

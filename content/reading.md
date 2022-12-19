@@ -1,6 +1,8 @@
 +++
 title = "Reading"
 date = "2021-01-13T11:00:00"
+showDate = false
+showReadingTime = false
 +++
 ## 2022
 

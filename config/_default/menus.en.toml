@@ -16,14 +16,9 @@
   weight = 10
 
 [[main]]
-  name = "Projects"
-  url = "/projects"
-  weight = 20
-
-[[main]]
   name = "Reading"
   url = "/reading/"
-  weight = 30
+  weight = 20
 
 #[[main]]
 #  name = "Posts"

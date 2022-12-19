@@ -1,0 +1,10 @@
+.certifications {
+    display: flex;
+    flex-direction: row;
+    gap: 2px;
+}
+
+.certifications img {
+    width: 150px;
+    height: auto;
+}

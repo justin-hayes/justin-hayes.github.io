@@ -15,7 +15,7 @@ dateFormat = "2 January 2006"
 [author]
   name = "Justin Hayes"
   image = "img/author.jpg"
-  headline = "Software, literature, language"
+  headline = "Software developer and linguaphile"
   # bio = "A little bit about you"
   links = [
       { email = "mailto:justin@justinhayes.me" },

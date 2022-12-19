@@ -1,7 +1,23 @@
 +++
 title = "About"
 date = "2019-06-15T11:00:00"
+showDate = false
+showReadingTime = false
 +++
+
+## Skills
+
+- **Languages**: HTML5, CSS3, JavaScript, TypeScript, Java, Kotlin, SQL
+- **Platforms**: JVM, NodeJS, Docker, Google Cloud, AWS
+- **Frameworks**: React, Spring Boot, Fastify
+- **Databases**: Postgres, MSSQL
+
+## Education
+
+- M.S. Computer Science, [University of Southern Maine](https://usm.maine.edu/)
+- B.A. Major in English, Minor in Philosophy, [Colby College](https://www.colby.edu/)
+
+
 ## Certifications
 
 <div class="certifications">
@@ -15,3 +31,4 @@ date = "2019-06-15T11:00:00"
 [![OpenJS NodeJS Services Developer Certification](/img/jsnsd-openjs-node-js-services-developer.png)](https://www.credly.com/badges/54f4003b-f18e-4397-92e2-0c7bcfd5e16b/public_url)
 
 </div>
+

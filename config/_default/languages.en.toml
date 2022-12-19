@@ -39,7 +39,6 @@ dateFormat = "2 January 2006"
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
   #   { linkedin = "https://linkedin.com/in/username" },
-  #   { mastodon = "https://mastodon.instance/@username" },
   #   { medium = "https://medium.com/username" },
   #   { microsoft = "https://www.microsoft.com/" },
   #   { orcid = "https://orcid.org/userid" },
@@ -57,6 +56,8 @@ dateFormat = "2 January 2006"
   #   { tumblr = "https://username.tumblr.com" },
   #   { twitch = "https://twitch.tv/username" },
       { twitter = "https://twitter.com/justin_a_hayes" },
+      { mastodon = "https://zirk.us/@justinhayes" },
+
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { youtube = "https://youtube.com/username" },
   ]

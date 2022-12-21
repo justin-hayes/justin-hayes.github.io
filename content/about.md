@@ -9,7 +9,7 @@ showReadingTime = false
 
 I am a software engineer with professional experience in full stack web development, with a particular interest in the design and implementation of well-scoped, loosely coupled APIs and services.
 
-I also enjoy studying Italian and Greek and developing my ability to engage with primary sources of epic poetry, folklore, traditional music, and history in these languages.
+I also enjoy studying Italian and Greek to engage with primary sources of epic poetry, folklore, traditional music, and history in the original language.
 
 ## Skills
 

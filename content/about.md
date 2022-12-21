@@ -5,6 +5,12 @@ showDate = false
 showReadingTime = false
 +++
 
+<span class="text-4xl">Hi! I'm Justin.</span>
+
+I am a software engineer with professional experience in full stack web development, with a particular interest in the design and implementation of well-scoped, loosely coupled APIs and services.
+
+I also enjoy studying Italian and Greek and developing my ability to engage with primary sources of epic poetry, folklore, traditional music, and history in these languages.
+
 ## Skills
 
 - **Languages**: HTML5, CSS3, JavaScript, TypeScript, Java, Kotlin, SQL

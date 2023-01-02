@@ -11,7 +11,7 @@ The following is a selection of completed reading in a primary language other th
 
 ### German
 
-1. Klein, André._Cafe in Berlin_. LearnOutLive, 2017.
+1. Klein, André. _Cafe in Berlin_. LearnOutLive, 2017.
 
 ## 2022
 

@@ -7,6 +7,12 @@ showReadingTime = false
 
 The following is a selection of completed reading in a primary language other than English.
 
+## 2023
+
+### German
+
+1. Klein, André._Cafe in Berlin_. LearnOutLive, 2017.
+
 ## 2022
 
 ### Ancient Greek

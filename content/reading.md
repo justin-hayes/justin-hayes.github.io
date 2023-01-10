@@ -14,6 +14,7 @@ The following is a selection of completed reading in a primary language other th
 1. Klein, André. _Cafe in Berlin_. LearnOutLive, 2017.
 2. Wagner, Andrea M. _Der Schatz von Hiddensee._ Stuttgart, Ernst Klett Sprachen, 2015.
 3. Wagner, Andrea M. _Abenteuer im Schnee_. Stuttgart, Ernst Klett Sprachen, 2009.
+4. Wagner, Andrea M. _Blinder Passagier_. Stuttgart, Ernst Klett Sprachen, 2009.
 
 ## 2022
 

@@ -15,7 +15,7 @@ The following is a selection of completed reading in a primary language other th
 2. Wagner, Andrea M. _Der Schatz von Hiddensee._ Stuttgart, Ernst Klett Sprachen, 2015.
 3. Wagner, Andrea M. _Abenteuer im Schnee_. Stuttgart, Ernst Klett Sprachen, 2009.
 4. Wagner, Andrea M. _Blinder Passagier_. Stuttgart, Ernst Klett Sprachen, 2009.
-
+5. Wagner, Andrea M. _Gefahr am Strand_. Stuttgart, Ernst Klett Sprachen, 2009.
 ## 2022
 
 ### Ancient Greek

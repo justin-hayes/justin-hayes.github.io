@@ -16,6 +16,8 @@ The following is a selection of completed reading in a primary language other th
 3. Wagner, Andrea M. _Abenteuer im Schnee_. Stuttgart, Ernst Klett Sprachen, 2009.
 4. Wagner, Andrea M. _Blinder Passagier_. Stuttgart, Ernst Klett Sprachen, 2009.
 5. Wagner, Andrea M. _Gefahr am Strand_. Stuttgart, Ernst Klett Sprachen, 2009.
+6. Wagner, Andrea M. _Spannende Tour im Scwarzwald_. Stuttgart, Ernst Klett Sprachen, 2012.
+
 ## 2022
 
 ### Ancient Greek

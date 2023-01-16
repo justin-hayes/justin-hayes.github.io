@@ -18,6 +18,7 @@ The following is a selection of completed reading in a primary language other th
 5. Wagner, Andrea M. _Gefahr am Strand_. Stuttgart, Ernst Klett Sprachen, 2009.
 6. Wagner, Andrea M. _Spannende Tour im Scwarzwald_. Stuttgart, Ernst Klett Sprachen, 2012.
 7. Wagner, Andrea M. _Umheimliches im Wald_. Stuttgart, Ernst Klett Sprachen, 2009.
+8. Luger, Urs. _Du findest mich nicht!_ München, Hueber, 2018.
 
 ## 2022
 

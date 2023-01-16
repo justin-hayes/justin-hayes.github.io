@@ -12,13 +12,17 @@ The following is a selection of completed reading in a primary language other th
 ### German
 
 1. Klein, André. _Cafe in Berlin_. LearnOutLive, 2017.
-2. Wagner, Andrea M. _Der Schatz von Hiddensee._ Stuttgart, Ernst Klett Sprachen, 2015.
-3. Wagner, Andrea M. _Abenteuer im Schnee_. Stuttgart, Ernst Klett Sprachen, 2009.
-4. Wagner, Andrea M. _Blinder Passagier_. Stuttgart, Ernst Klett Sprachen, 2009.
-5. Wagner, Andrea M. _Gefahr am Strand_. Stuttgart, Ernst Klett Sprachen, 2009.
-6. Wagner, Andrea M. _Spannende Tour im Scwarzwald_. Stuttgart, Ernst Klett Sprachen, 2012.
-7. Wagner, Andrea M. _Umheimliches im Wald_. Stuttgart, Ernst Klett Sprachen, 2009.
-8. Luger, Urs. _Du findest mich nicht!_ München, Hueber, 2018.
+2. Klein, André. _Ferien in Frankfurt_. LearnOutLive, 2017.
+3. Klein, André. _Karneval in Köln_. LearnOutLive, 2014.
+4. Klein, André. _Momente in München_. LearnOutLive, 2014.
+5. Klein, André. _Ahoi aus Hamburg_. LearnOutLive, 2015.
+6. Wagner, Andrea M. _Der Schatz von Hiddensee._ Stuttgart, Ernst Klett Sprachen, 2015.
+7. Wagner, Andrea M. _Abenteuer im Schnee_. Stuttgart, Ernst Klett Sprachen, 2009.
+8. Wagner, Andrea M. _Blinder Passagier_. Stuttgart, Ernst Klett Sprachen, 2009.
+9. Wagner, Andrea M. _Gefahr am Strand_. Stuttgart, Ernst Klett Sprachen, 2009.
+10. Wagner, Andrea M. _Spannende Tour im Scwarzwald_. Stuttgart, Ernst Klett Sprachen, 2012.
+11. Wagner, Andrea M. _Umheimliches im Wald_. Stuttgart, Ernst Klett Sprachen, 2009.
+12. Luger, Urs. _Du findest mich nicht!_ München, Hueber, 2018.
 
 ## 2022
 

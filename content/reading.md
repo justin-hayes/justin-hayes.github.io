@@ -26,7 +26,7 @@ The following is a selection of completed reading in a primary language other th
 13. Thoma, Leonard. _Der Salto und andere Geschichten_. München, Hueber, 2019.
 14. Billina, Anneli. _Schatten über der Vergangenheit_. München, Hueber, 2018.
 15. Borbein, Volker and Christian Baumgarten. _Gefährliche Spaziergänge_. München, Hueber, 2019.
-16. Schieckel, Anne. _Überfall in Mannhem_.  München, Hueber, 2019.
+16. Schieckel, Anne. _Überfall in Mannheim_.  München, Hueber, 2019.
 
 ## 2022
 

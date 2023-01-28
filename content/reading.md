@@ -25,6 +25,7 @@ The following is a selection of completed reading in a primary language other th
 12. Luger, Urs. _Du findest mich nicht!_ München, Hueber, 2018.
 13. Thoma, Leonard. _Der Salto und andere Geschichten_. München, Hueber, 2019.
 14. Billina, Anneli. _Schatten über der Vergangenheit_. München, Hueber, 2018.
+15. Borbein, Volker and Christian Baumgarten. _Gefährliche Spaziergänge_. München, Hueber, 2019.
 
 ## 2022
 

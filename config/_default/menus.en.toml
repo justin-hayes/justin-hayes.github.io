@@ -20,6 +20,11 @@
   url = "/reading/"
   weight = 20
 
+[[main]]
+  name = "Learning"
+  pageRef = "learning"
+  weight = 10
+
 #[[main]]
 #  name = "Posts"
 #  pageRef = "posts"

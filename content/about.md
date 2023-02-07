@@ -32,6 +32,8 @@ I also enjoy studying Italian and Greek to engage with primary sources of epic p
 
 [![AWS Certified Solutions Architect Associate Certification](/img/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/182de53e-a6d2-4f13-851e-768f7ccd7da5/public_url)
 
+[![Kubernetes and Cloud Native Associate Certification](/img/kcna-kubernetes-and-cloud-native-associate.png)](https://www.credly.com/badges/4b5cfeac-a459-43ed-9f23-126fa03cdf99/public_url)
+
 [![OpenJS NodeJS Application Developer Certification](/img/jsnad-openjs-node-js-application-developer.png)](https://www.credly.com/badges/cec277c4-e085-46b1-bc1b-90779e37910f/public_url)
 
 [![OpenJS NodeJS Services Developer Certification](/img/jsnsd-openjs-node-js-services-developer.png)](https://www.credly.com/badges/54f4003b-f18e-4397-92e2-0c7bcfd5e16b/public_url)

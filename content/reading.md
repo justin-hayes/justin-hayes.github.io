@@ -32,6 +32,7 @@ The following is a selection of completed reading in a primary language other th
 19. Specht, Franz. _Faust_. München, Hueber, 2010.
 20. Luger, Urs. _Rätsel um die chinesische Vase_. München, Hueber, 2018.
 21. Luger, Urs. _Werther_. München, Hueber, 2013.
+22. Luger, Urs. _Die Räuber_. München, Hueber, 2013.
 
 ## 2022
 

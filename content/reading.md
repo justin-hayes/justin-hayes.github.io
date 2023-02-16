@@ -34,6 +34,7 @@ The following is a selection of completed reading in a primary language other th
 21. Luger, Urs. _Werther_. München, Hueber, 2013.
 22. Luger, Urs. _Die Räuber_. München, Hueber, 2013.
 23. Luger, Urs. _Die Bremer Stadtmusikanten_. München, Hueber, 2015.
+24. Luger, Urs. _Bergkristall_. München, Hueber, 2010.
 
 ## 2022
 

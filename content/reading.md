@@ -9,6 +9,10 @@ The following is a selection of completed reading in a primary language other th
 
 ## 2023
 
+### Ancient Greek
+
+1. Gerber, Jacob. _ὁ Κατάσκοπος_. 2018.
+
 ### German
 
 1. Klein, André. _Cafe in Berlin_. LearnOutLive, 2017.
@@ -41,15 +45,11 @@ The following is a selection of completed reading in a primary language other th
 
 ### Ancient Greek
 
-#### Books
-
 1. Balme, et al. _Athenaze_ vol. II. Montella, Edizioni Accademia Vivarium Novum, 2020.
 2. Barbone, Alessandro and Tommasso Francesco Βorri. _La Tavola di Cebete_. Montella, Edizioni Accademia Vivarium Novum, 2008.
 3. Steadman, Geoffrey and Plato. _Crito_. 2019.
 
 ### Modern Greek
-
-#### Books
 
 1. Γαβαλά, Τέρψη and Κωνσταντίνος Οικονόμου. _Λυδία_. Athens, Omilo, 2019.
 2. Κολέθρα, Νένη. _Ξενοδοχείο Ατλαντίς, παρακαλώ_. Athens, Deltos, 2019.
@@ -67,19 +67,15 @@ The following is a selection of completed reading in a primary language other th
 
 ### Italian
 
-#### Books
-
 1. Calvino, Italo. _Marcovaldo_. Milano, Mondadori, 2016.
 
-#### Magazines
+Magazines:
 
 - De Mauro, Giovanni, et al. _Internazionale_ #1423-#1425. Roma, Internazionale spa, 2021.
 
 ## 2021
 
 ### Ancient Greek
-
-#### Books
 
 1. Balme, et al. _Athenaze_ vol. I. Montella, Edizioni Accademia Vivarium Novum, 2020.
 2. Díaz Ávila, Mario. _Alexandros: To Hellenikon Paidion_. Granada, Cultura Clásica, 2015.
@@ -88,14 +84,12 @@ The following is a selection of completed reading in a primary language other th
 
 ### Italian
 
-#### Books
-
 1. Ordine, Nuccio. _L'Utilità dell'inutile_. Firenze, Bompiani, 2013.
 2. Barbero, Alessandro. _Dante_. Bari, Laterza, 2020.
 3. Malaparte, Curzio. _La pelle_. Milano, Adelphi, 2010.
 4. Cazzullo, Aldo. _A riveder le stelle_. Milano, Mondadori, 2020.
 5. Jensen, Arthur, et al. _L'Italiano secondo il metodo natura_. Charlottenlund, The Nature Method Centre, 1962.
 
-#### Magazines
+Magazines:
 
 - De Mauro, Giovanni, et al. _Internazionale_ #1404-#1422. Roma, Internazionale spa, 2021.

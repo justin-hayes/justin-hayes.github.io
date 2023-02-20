@@ -42,6 +42,7 @@ The following is a selection of completed reading in a primary language other th
 25. Luger, Urs. _Fräulein Else_. München, Hueber, 2010.
 26. Specht, Franz. _Rumpelstilzchen_. München, Hueber, 2010.
 27. Specht, Franz. _Siegfriends Tod_. München, Hueber, 2009.
+28. Luger, Urs. _Der zerbrochene Krug_. München, Hueber, 2011.
 
 ## 2022
 

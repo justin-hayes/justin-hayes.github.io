@@ -44,6 +44,7 @@ The following is a selection of completed reading in a primary language other th
 27. Specht, Franz. _Siegfriends Tod_. München, Hueber, 2009.
 28. Luger, Urs. _Der zerbrochene Krug_. München, Hueber, 2011.
 29. Klein, André. _Walzer in Wien_. LearnOutLive, 2016.
+30. Klein, André. _Zurück in Zürich_. LeanOutLive, 2016.
 
 ## 2022
 

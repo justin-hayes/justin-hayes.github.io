@@ -45,6 +45,7 @@ The following is a selection of completed reading in a primary language other th
 28. Luger, Urs. _Der zerbrochene Krug_. München, Hueber, 2011.
 29. Klein, André. _Walzer in Wien_. LearnOutLive, 2016.
 30. Klein, André. _Zurück in Zürich_. LeanOutLive, 2016.
+31. Schieckel, Anne. _Mord in der Popakademie_. München, Hueber, 2020.
 
 ## 2022
 

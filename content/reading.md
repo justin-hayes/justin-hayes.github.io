@@ -47,6 +47,8 @@ The following is a selection of completed reading in a primary language other th
 30. Klein, André. _Zurück in Zürich_. LearnOutLive, 2016.
 31. Schieckel, Anne. _Mord in der Popakademie_. München, Hueber, 2020.
 32. Klein, André. _Digital in Dresden_. LearnOutLive, 2022.
+33. Roemer, Maria and Manuela Benetton. _Il tedesco_. Chivasso, Assimil Italia, 2016.
+34. Thoma, Leonhard. _Doros Date und andere Geschichten_. München, Hueber, 2019.
 
 ## 2022
 

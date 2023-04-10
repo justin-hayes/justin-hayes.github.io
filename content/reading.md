@@ -54,6 +54,7 @@ The following is a selection of completed reading in a primary language other th
 37. Klein, André. _Lockdown in Liechtenstein_. LearnOutLive, 2022.
 38. Billina, Anneli. _E-Mails aus dem Hühnerstall_. München, Hueber, 2023.
 39. Luger, Urs. _Eine Nacht in Berlin_. München, Hueber, 2022.
+40. Specht, Franz. _Sicher ist nur eins_. München, Hueber, 2002.
 
 ## 2022
 

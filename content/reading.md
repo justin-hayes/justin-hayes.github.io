@@ -51,6 +51,7 @@ The following is a selection of completed reading in a primary language other th
 34. Thoma, Leonhard. _Doros Date und andere Geschichten_. München, Hueber, 2019.
 35. Luger, Urs. _Unter Fischen_. München, Hueber, 2021.
 36. Klein, André. _Schlamassel in Stuttgart_. LearnOutLive, 2022.
+37. Klein, André. _Lockdown in Liechtenstein_. LearnOutLive, 2022.
 
 ## 2022
 

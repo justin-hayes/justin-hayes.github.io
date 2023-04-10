@@ -52,6 +52,8 @@ The following is a selection of completed reading in a primary language other th
 35. Luger, Urs. _Unter Fischen_. München, Hueber, 2021.
 36. Klein, André. _Schlamassel in Stuttgart_. LearnOutLive, 2022.
 37. Klein, André. _Lockdown in Liechtenstein_. LearnOutLive, 2022.
+38. Billina, Anneli. _E-Mails aus dem Hühnerstall_. München, Hueber, 2023.
+39. Luger, Urs. _Eine Nacht in Berlin_. München, Hueber, 2022.
 
 ## 2022
 

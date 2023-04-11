@@ -56,6 +56,7 @@ The following is a selection of completed reading in a primary language other th
 39. Luger, Urs. _Eine Nacht in Berlin_. München, Hueber, 2022.
 40. Specht, Franz. _Sicher ist nur eins_. München, Hueber, 2002.
 41. Luger, Urs. _Tod einer Diva_. München, Hueber, 2020.
+42. Luger, Urs. _Große Brüder und andere Geschichten_. München, Hueber, 2021.
 
 ## 2022
 

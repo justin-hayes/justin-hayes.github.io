@@ -57,6 +57,7 @@ The following is a selection of completed reading in a primary language other th
 40. Specht, Franz. _Sicher ist nur eins_. München, Hueber, 2002.
 41. Luger, Urs. _Tod einer Diva_. München, Hueber, 2020.
 42. Luger, Urs. _Große Brüder und andere Geschichten_. München, Hueber, 2021.
+43. Specht, Franz. _Schöne Augen_. München, Hueber, 2002.
 
 ## 2022
 

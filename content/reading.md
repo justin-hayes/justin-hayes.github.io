@@ -61,6 +61,7 @@ The following is a selection of completed reading in a primary language other th
 44. Specht, Franz. _Der rote Hahn_. München, Hueber, 2006.
 45. Thoma, Leonard. _Die Fantasien des Herrn Röpke und andere Geschichten_. München, Hueber, 2009.
 46. Dittrich, Roland. _Die Skorpion-Frau_. Berlin, Cornelsen, 2016.
+47. Dittrich, Roland. _Sport ist Mord_. Berlin, Cornelsen, 2016.
 
 ## 2022
 

@@ -66,6 +66,8 @@ The following is a selection of completed reading in a primary language other th
 49. Dittrich, Roland. _Haifische in der Spree_. Berlin, Cornelsen, 2019.
 50. Dittrich, Roland. _Kaltes Blut_. Berlin, Cornelsen, 2019.
 51. Dittrich, Roland. _Leise kommt der Tod_. Berlin, Cornelsen, 2019.
+52. Dittrich, Roland. _Teufel in Seide_. Berlin, Cornelsen, 2019.
+53. Dittrich, Roland. _Ein Toter zu viel_. Berlin, Cornelsen, 2017.
 
 ## 2022
 

@@ -68,6 +68,7 @@ The following is a selection of completed reading in a primary language other th
 51. Dittrich, Roland. _Leise kommt der Tod_. Berlin, Cornelsen, 2019.
 52. Dittrich, Roland. _Teufel in Seide_. Berlin, Cornelsen, 2019.
 53. Dittrich, Roland. _Ein Toter zu viel_. Berlin, Cornelsen, 2017.
+54. Baier, Gabi. _Verschollen in Berlin_. Stuttgart, Ernst Klett Sprachen, 2007.
 
 ## 2022
 

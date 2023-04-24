@@ -69,6 +69,7 @@ The following is a selection of completed reading in a primary language other th
 52. Dittrich, Roland. _Teufel in Seide_. Berlin, Cornelsen, 2019.
 53. Dittrich, Roland. _Ein Toter zu viel_. Berlin, Cornelsen, 2017.
 54. Baier, Gabi. _Verschollen in Berlin_. Stuttgart, Ernst Klett Sprachen, 2007.
+55. Schurig, Cordula. _Kalt erwischt in Hamburg_. Stuttgart, Ernst Klett Sprachen, 2007.
 
 ## 2022
 

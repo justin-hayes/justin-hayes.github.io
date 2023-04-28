@@ -71,6 +71,8 @@ The following is a selection of completed reading in a primary language other th
 54. Baier, Gabi. _Verschollen in Berlin_. Stuttgart, Ernst Klett Sprachen, 2007.
 55. Schurig, Cordula. _Kalt erwischt in Hamburg_. Stuttgart, Ernst Klett Sprachen, 2007.
 56. Borbein, Volker and Christian Baumgarten. _Das Missverständnis_. Berlin, Cornelsen, 2019.
+57. Borbein, Volker et al. _Der letzte Kuss_. Berlin, Cornelsen, 2019.
+58. Borbein, Volker and Marie-Claire Lohéac-Wieders. _Der Mond war Zeuge_. Berlin, Cornelsen, 2019.
 
 ## 2022
 

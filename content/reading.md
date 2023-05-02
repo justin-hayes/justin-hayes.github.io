@@ -74,6 +74,8 @@ The following is a selection of completed reading in a primary language other th
 57. Borbein, Volker et al. _Der letzte Kuss_. Berlin, Cornelsen, 2019.
 58. Borbein, Volker and Marie-Claire Lohéac-Wieders. _Der Mond war Zeuge_. Berlin, Cornelsen, 2019.
 59. Borbein, Volker and Christian Baumgarten. _Die Entscheidung_. Berlin, Cornelsen, 2019.
+60. Borbein, Volker and Christian Baumgarten. _Die Spur führt nach Bayern_. Berlin, Cornelsen, 2019.
+61. Borbein, Volker and Christian Baumgarten. _Die Überraschung_. Berlin, Cornelsen, 2019.
 
 ## 2022
 

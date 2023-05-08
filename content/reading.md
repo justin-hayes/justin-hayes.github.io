@@ -78,6 +78,8 @@ The following is a selection of completed reading in a primary language other th
 61. Borbein, Volker and Christian Baumgarten. _Die Überraschung_. Berlin, Cornelsen, 2019.
 62. Borbein, Volker and Marie-Claire Lohéac-Wieders. _Tatort: Krankenhaus_. Berlin, Cornelsen, 2019.
 63. Borbein, Volker and Christian Baumgarten. _Gefährlicher Einkauf_. Berlin, Cornelsen, 2019.
+64. Borbein, Volker and Christian Baumgarten. _Großstadtliebe_. Berlin, Cornelsen, 2019.
+
 ## 2022
 
 ### Ancient Greek

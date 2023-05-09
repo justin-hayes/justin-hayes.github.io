@@ -79,6 +79,10 @@ The following is a selection of completed reading in a primary language other th
 62. Borbein, Volker and Marie-Claire Lohéac-Wieders. _Tatort: Krankenhaus_. Berlin, Cornelsen, 2019.
 63. Borbein, Volker and Christian Baumgarten. _Gefährlicher Einkauf_. Berlin, Cornelsen, 2019.
 64. Borbein, Volker and Christian Baumgarten. _Großstadtliebe_. Berlin, Cornelsen, 2019.
+65. Borbein, Volker and Marie-Claire Lohéac-Wieders. _Jeder ist käuflich_. Berlin, Cornelsen, 2019.
+66. Borbein, Volker and Marie-Claire Lohéac-Wieders. _Tod in der Oper_. Berlin, Cornelsen, 2019.
+67. Borbein, Volker and Christian Baumgarten. _Liebe bis in den Tod_. Berlin, Cornelsen, 2019.
+68. Baumgarten, Christian and Volker Borbein. _Pedro kommt an_. Berlin, Cornelsen, 2018.
 
 ## 2022
 

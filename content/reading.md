@@ -83,6 +83,7 @@ The following is a selection of completed reading in a primary language other th
 66. Borbein, Volker and Marie-Claire Lohéac-Wieders. _Tod in der Oper_. Berlin, Cornelsen, 2019.
 67. Borbein, Volker and Christian Baumgarten. _Liebe bis in den Tod_. Berlin, Cornelsen, 2019.
 68. Baumgarten, Christian and Volker Borbein. _Pedro kommt an_. Berlin, Cornelsen, 2018.
+69. Baumgarten, Christian and Volker Borbein. _Das Grüne Band_. Berlin, Cornelsen, 2017.
 
 ## 2022
 

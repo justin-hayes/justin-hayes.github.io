@@ -84,6 +84,7 @@ The following is a selection of completed reading in a primary language other th
 67. Borbein, Volker and Christian Baumgarten. _Liebe bis in den Tod_. Berlin, Cornelsen, 2019.
 68. Baumgarten, Christian and Volker Borbein. _Pedro kommt an_. Berlin, Cornelsen, 2018.
 69. Baumgarten, Christian and Volker Borbein. _Das Grüne Band_. Berlin, Cornelsen, 2017.
+70. Borbein, Volker and Christian Baumgarten. _Freude. Liebe. Angst_. Berlin, Cornelsen, 2019.
 
 ## 2022
 

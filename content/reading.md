@@ -88,6 +88,7 @@ The following is a selection of completed reading in a primary language other th
 71. Borbein, Volker and Marie-Claire Lohéac-Wieders. _Tödlicher Cocktail_. Berlin, Cornelsen, 2019.
 72. Borbein, Volker and Christian Baumgarten. _Tödlicher Irrtum_. Berlin, Cornelsen, 2019.
 73. Borbein, Volker et al. _Tödliches Testament_. Berlin, Cornelsen, 2019.
+74. Schurig, Claudia. _Die Lerche aus Leipzig_. Stuttgart, Ernst Klett Sprachen, 2008.
 
 ## 2022
 

@@ -93,6 +93,8 @@ The following is a selection of completed reading in a primary language other th
 76. Wülfing, Stefanie. _Böses Erwachen in Heidelberg_. Stuttgart, Ernst Klett Sprachen, 2011.
 77. Baier, Gabi. _Frankfurter Geschäfte_. Stuttgart, Ernst Klett Sprachen, 2014.
 78. Baier, Gabi. _Gefährliches Spiel in Essen_. Stuttgart, Ernst Klett Sprachen, 2008.
+79. Thoma, Leonard. _Das Idealpaar_. München, Hueber, 2010.
+80. Thoma, Leonard. _Eine Frau, ein Mann_. München, Hueber, 2011.
 
 ## 2022
 

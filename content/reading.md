@@ -95,6 +95,7 @@ The following is a selection of completed reading in a primary language other th
 78. Baier, Gabi. _Gefährliches Spiel in Essen_. Stuttgart, Ernst Klett Sprachen, 2008.
 79. Thoma, Leonard. _Das Idealpaar_. München, Hueber, 2010.
 80. Thoma, Leonard. _Eine Frau, ein Mann_. München, Hueber, 2011.
+81. Thoma, Leonard. _Der Hundetraum und andere Verwirrungen_. München, Hueber, 2001.
 
 ## 2022
 

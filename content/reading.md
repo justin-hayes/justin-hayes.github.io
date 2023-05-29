@@ -96,6 +96,9 @@ The following is a selection of completed reading in a primary language other th
 79. Thoma, Leonard. _Das Idealpaar_. München, Hueber, 2010.
 80. Thoma, Leonard. _Eine Frau, ein Mann_. München, Hueber, 2011.
 81. Thoma, Leonard. _Der Hundetraum und andere Verwirrungen_. München, Hueber, 2001.
+82. Braucek, Brigitte. _Der Passagier und andere Geschichten_. München, Hueber, 2008.
+83. Sprecht, Franz. _Die Angst und der Tod_. München, Hueber, 2006.
+84. Sprecht, Franz._Besserwisser_.  München, Hueber, 2010.
 
 ## 2022
 

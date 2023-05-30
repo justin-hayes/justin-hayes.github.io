@@ -102,6 +102,7 @@ The following is a selection of completed reading in a primary language other th
 85. Specht, Franz. _Die ganze Wahrheit_. München, Hueber, 2008.
 86. Specht, Franz. _Die schöne Frau Bär_. München, Hueber, 2007.
 87. Wülfing, Stefanie. _Heiße Spur in München_. Stuttgart, Ernst Klett Sprachen, 2009.
+88. Schurig, Cordula. _Das Herz von Dresden_. Stuttgart, Ernst Klett Sprachen, 2009.
 
 ## 2022
 

@@ -100,6 +100,9 @@ The following is a selection of completed reading in a primary language other th
 83. Specht, Franz. _Die Angst und der Tod_. München, Hueber, 2006.
 84. Specht, Franz. _Besserwisser_.  München, Hueber, 2010.
 85. Specht, Franz. _Die ganze Wahrheit_. München, Hueber, 2008.
+86. Specht, Franz. _Die schöne Frau Bär_. München, Hueber, 2007.
+87. Wülfing, Stefanie. _Heiße Spur in München_. Stuttgart, Ernst Klett Sprachen, 2009.
+
 ## 2022
 
 ### Ancient Greek

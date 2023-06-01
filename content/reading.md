@@ -27,11 +27,11 @@ The following is a selection of completed reading in a primary language other th
 10. Wagner, Andrea M. _Spannende Tour im Scwarzwald_. Stuttgart, Ernst Klett Sprachen, 2012.
 11. Wagner, Andrea M. _Umheimliches im Wald_. Stuttgart, Ernst Klett Sprachen, 2009.
 12. Luger, Urs. _Du findest mich nicht!_ München, Hueber, 2018.
-13. Thoma, Leonard. _Der Salto und andere Geschichten_. München, Hueber, 2019.
+13. Thoma, Leonhard. _Der Salto und andere Geschichten_. München, Hueber, 2019.
 14. Billina, Anneli. _Schatten über der Vergangenheit_. München, Hueber, 2018.
 15. Borbein, Volker and Christian Baumgarten. _Gefährliche Spaziergänge_. München, Hueber, 2019.
 16. Schieckel, Anne. _Überfall in Mannheim_.  München, Hueber, 2019.
-17. Thoma, Leonard. _Der neue Mitbewohner und andere Geschichten_. München, Hueber, 2020.
+17. Thoma, Leonhard. _Der neue Mitbewohner und andere Geschichten_. München, Hueber, 2020.
 18. Klein, André. _Plötzlich in Palermo_. LearnOutLive, 2017.
 19. Specht, Franz. _Faust_. München, Hueber, 2010.
 20. Luger, Urs. _Rätsel um die chinesische Vase_. München, Hueber, 2018.
@@ -59,7 +59,7 @@ The following is a selection of completed reading in a primary language other th
 42. Luger, Urs. _Große Brüder und andere Geschichten_. München, Hueber, 2021.
 43. Specht, Franz. _Schöne Augen_. München, Hueber, 2002.
 44. Specht, Franz. _Der rote Hahn_. München, Hueber, 2006.
-45. Thoma, Leonard. _Die Fantasien des Herrn Röpke und andere Geschichten_. München, Hueber, 2009.
+45. Thoma, Leonhard. _Die Fantasien des Herrn Röpke und andere Geschichten_. München, Hueber, 2009.
 46. Dittrich, Roland. _Die Skorpion-Frau_. Berlin, Cornelsen, 2019.
 47. Dittrich, Roland. _Sport ist Mord_. Berlin, Cornelsen, 2019.
 48. Dittrich, Roland. _Ein Schuss ins Leere_. Berlin, Cornelsen, 2019.
@@ -93,9 +93,9 @@ The following is a selection of completed reading in a primary language other th
 76. Wülfing, Stefanie. _Böses Erwachen in Heidelberg_. Stuttgart, Ernst Klett Sprachen, 2011.
 77. Baier, Gabi. _Frankfurter Geschäfte_. Stuttgart, Ernst Klett Sprachen, 2014.
 78. Baier, Gabi. _Gefährliches Spiel in Essen_. Stuttgart, Ernst Klett Sprachen, 2008.
-79. Thoma, Leonard. _Das Idealpaar_. München, Hueber, 2010.
-80. Thoma, Leonard. _Eine Frau, ein Mann_. München, Hueber, 2011.
-81. Thoma, Leonard. _Der Hundetraum und andere Verwirrungen_. München, Hueber, 2001.
+79. Thoma, Leonhard. _Das Idealpaar_. München, Hueber, 2010.
+80. Thoma, Leonhard. _Eine Frau, ein Mann_. München, Hueber, 2011.
+81. Thoma, Leonhard. _Der Hundetraum und andere Verwirrungen_. München, Hueber, 2001.
 82. Braucek, Brigitte. _Der Passagier und andere Geschichten_. München, Hueber, 2008.
 83. Specht, Franz. _Die Angst und der Tod_. München, Hueber, 2006.
 84. Specht, Franz. _Besserwisser_.  München, Hueber, 2010.
@@ -103,6 +103,9 @@ The following is a selection of completed reading in a primary language other th
 86. Specht, Franz. _Die schöne Frau Bär_. München, Hueber, 2007.
 87. Wülfing, Stefanie. _Heiße Spur in München_. Stuttgart, Ernst Klett Sprachen, 2009.
 88. Schurig, Cordula. _Das Herz von Dresden_. Stuttgart, Ernst Klett Sprachen, 2009.
+89. Thoma, Leonhard. _Der Taubenfütterer und andere Geschichten_. München, Hueber, 2008.
+90. Thoma, Leonhard. _Das Wunschhaus und andere Geschichten_. München, Hueber, 2006.
+91. Klein, André. _Sturm auf Sylt_. LearnOutLive, 2022.
 
 ## 2022
 

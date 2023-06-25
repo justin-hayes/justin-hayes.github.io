@@ -106,6 +106,7 @@ The following is a selection of completed reading in a primary language other th
 89. Thoma, Leonhard. _Der Taubenfütterer und andere Geschichten_. München, Hueber, 2008.
 90. Thoma, Leonhard. _Das Wunschhaus und andere Geschichten_. München, Hueber, 2006.
 91. Klein, André. _Sturm auf Sylt_. LearnOutLive, 2022.
+92. Funke, Cornelia. _Tintenherz_. Hamburg, Dressler Verlag, 2012.
 
 ## 2022
 

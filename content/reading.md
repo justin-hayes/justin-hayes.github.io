@@ -107,6 +107,8 @@ The following is a selection of completed reading in a primary language other th
 90. Thoma, Leonhard. _Das Wunschhaus und andere Geschichten_. München, Hueber, 2006.
 91. Klein, André. _Sturm auf Sylt_. LearnOutLive, 2022.
 92. Funke, Cornelia. _Tintenherz_. Hamburg, Dressler Verlag, 2012.
+93. Funke, Cornelia. _Tintenblut_. Hamburg, Dressler Verlag, 2012.
+94. Thoma, Leonard. _Der Ruf der Tagesfische und andere Geschischten_. München, Hueber, 2007.
 
 ## 2022
 

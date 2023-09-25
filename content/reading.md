@@ -110,6 +110,7 @@ The following is a selection of completed reading in a primary language other th
 93. Funke, Cornelia. _Tintenblut_. Hamburg, Dressler Verlag, 2012.
 94. Thoma, Leonard. _Der Ruf der Tagesfische und andere Geschischten_. München, Hueber, 2007.
 95. Richards, Olly. _Short Stories in German for Intermediate Learners_. London, John Murray Press, 2021.
+96. Ende, Michael. _Momo_. Stuttgart, Thienemann, 2023.
 
 ## 2022
 

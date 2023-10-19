@@ -111,6 +111,9 @@ The following is a selection of completed reading in a primary language other th
 94. Thoma, Leonard. _Der Ruf der Tagesfische und andere Geschischten_. München, Hueber, 2007.
 95. Richards, Olly. _Short Stories in German for Intermediate Learners_. London, John Murray Press, 2021.
 96. Ende, Michael. _Momo_. Stuttgart, Thienemann, 2023.
+97. Funke, Cornelia. _Tintentod_. Hamburg, Dressler Verlag, 2021.
+98. Eismann, Volker and Manuela Benetton. _Perfezionamento del Tedesco_. Chivasso, Assimil Italia, 2022.
+99. Funke, Cornelia. _Die Farbe der Rache_. Hamburg, Dressler Verlag, 2023.
 
 ## 2022
 

@@ -115,6 +115,8 @@ The following is a selection of completed reading in a primary language other th
 98. Eismann, Volker and Manuela Benetton. _Perfezionamento del Tedesco_. Chivasso, Assimil Italia, 2022.
 99. Funke, Cornelia. _Die Farbe der Rache_. Hamburg, Dressler Verlag, 2023.
 100. Tolkien, J.R.R. _Der kleine Hobbit_. Translated by Walter Scherf, München, dtv Verlag, 2012.
+101. Funke, Cornelia. _Drachenreiter_. Hamburg, Dressler Verlag, 2022.
+102. Preußler, Otfried. _Der Räuber Hotzenplotz_. Stuttgart, Thienemann, 2023.
 
 ## 2022
 

@@ -117,6 +117,7 @@ The following is a selection of completed reading in a primary language other th
 100. Tolkien, J.R.R. _Der kleine Hobbit_. Translated by Walter Scherf, München, dtv Verlag, 2012.
 101. Funke, Cornelia. _Drachenreiter_. Hamburg, Dressler Verlag, 2022.
 102. Preußler, Otfried. _Der Räuber Hotzenplotz_. Stuttgart, Thienemann, 2023.
+103. Ende, Michael. _Die unendliche Geschichte_. Stuttgart, Thienemann, 2019.
 
 ## 2022
 

@@ -7,6 +7,12 @@ showReadingTime = false
 
 The following is a selection of completed reading in a primary language other than English.
 
+## 2024
+
+### German
+
+1. Preußler, Otfried. _Der kleine Wassermann_. Stuttgart, Thienemann, 2023.
+
 ## 2023
 
 ### Ancient Greek

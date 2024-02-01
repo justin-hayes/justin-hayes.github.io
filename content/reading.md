@@ -12,6 +12,9 @@ The following is a selection of completed reading in a primary language other th
 ### German
 
 1. Preußler, Otfried. _Der kleine Wassermann_. Stuttgart, Thienemann, 2023.
+2. Funke, Cornelia. _Die Feder eines Greifs_. Hamburg, Dressler Verlag, 2022.
+3. Funke, Cornelia. _Der Fluch der Aurelia_. Hamburg, Dressler Verlag, 2021.
+4. Preußler, Otfried. _Das kleine Gespenst_. Stuttgart, Thienemann, 2023.
 
 ## 2023
 

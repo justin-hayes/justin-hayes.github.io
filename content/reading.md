@@ -15,6 +15,8 @@ The following is a selection of completed reading in a primary language other th
 2. Funke, Cornelia. _Die Feder eines Greifs_. Hamburg, Dressler Verlag, 2022.
 3. Funke, Cornelia. _Der Fluch der Aurelia_. Hamburg, Dressler Verlag, 2021.
 4. Preußler, Otfried. _Das kleine Gespenst_. Stuttgart, Thienemann, 2023.
+5. Preußler, Otfried. _Die kleine Hexe_. Stuttgart, Thienemann, 2023.
+6. Funke, Cornelia. _Herr der Diebe_. Hamburg, Dressler Verlag, 2021.
 
 ## 2023
 

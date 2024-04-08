@@ -12,7 +12,7 @@ title = "Justin Hayes"
 
 dateFormat = "2 January 2006"
 
-[author]
+[params.author]
   name = "Justin Hayes"
   image = "img/author.jpg"
   headline = "Software engineer and linguaphile"

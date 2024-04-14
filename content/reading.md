@@ -18,11 +18,13 @@ The following is a selection of completed reading in a primary language other th
 5. Preußler, Otfried. _Die kleine Hexe_. Stuttgart, Thienemann, 2023.
 6. Funke, Cornelia. _Herr der Diebe_. Hamburg, Dressler Verlag, 2021.
 7. Tolkien, J.R.R. _Die Gefährten_. Translated by Wolfgang Krege, Stuttgart, Klett-Cotta, 2014.
+8. Tolkien, J.R.R. _Die zwei Türme_. Translated by Wolfgang Krege, Stuttgart, Klett-Cotta, 2014.
 
 ### Italian
 
 1. Blasi, Valeria. _Amore e Cappucino_. Firenze, ALMA Edizioni, 2015.
 2. De Giuli, Alessandro and Ciro Massimo Naddeo. _Dov'è Yukio_. Firenze, ALMA Edizioni, 2015.
+3. De Giuli, Alessandro and Ciro Massimo Naddeo. _Radio Lina_. Firenze, ALMA Edizioni, 2015.
 
 ## 2023
 

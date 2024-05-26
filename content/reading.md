@@ -19,6 +19,7 @@ The following is a selection of completed reading in a primary language other th
 6. Funke, Cornelia. _Herr der Diebe_. Hamburg, Dressler Verlag, 2021.
 7. Tolkien, J.R.R. _Die Gefährten_. Translated by Wolfgang Krege, Stuttgart, Klett-Cotta, 2014.
 8. Tolkien, J.R.R. _Die zwei Türme_. Translated by Wolfgang Krege, Stuttgart, Klett-Cotta, 2014.
+9. Tolkien, J.R.R. _Die Rückkehr des Königs_. Translated by Wolfgang Krege, Stuttgart, Klett-Cotta, 2014.
 
 ### Italian
 

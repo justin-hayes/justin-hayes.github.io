@@ -27,6 +27,7 @@ The following is a selection of completed reading in a primary language other th
 1. Blasi, Valeria. _Amore e Cappucino_. Firenze, ALMA Edizioni, 2015.
 2. De Giuli, Alessandro and Ciro Massimo Naddeo. _Dov'è Yukio_. Firenze, ALMA Edizioni, 2015.
 3. De Giuli, Alessandro and Ciro Massimo Naddeo. _Radio Lina_. Firenze, ALMA Edizioni, 2015.
+4. De Giuli, Alessandro. _Dolomiti_. Firenze, ALMA Edizioni, 2015.
 
 ## 2023
 

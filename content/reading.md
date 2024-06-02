@@ -29,6 +29,7 @@ The following is a selection of completed reading in a primary language other th
 3. De Giuli, Alessandro and Ciro Massimo Naddeo. _Radio Lina_. Firenze, ALMA Edizioni, 2015.
 4. De Giuli, Alessandro. _Dolomiti_. Firenze, ALMA Edizioni, 2015.
 5. Ducci, Giovanni. _Pasta per Due_. Firenze, ALMA Edizioni, 2015.
+6. Marulo, Claudia. _Il palio rubato_. Torino, Loescher Editore, 2022.
 
 ## 2023
 

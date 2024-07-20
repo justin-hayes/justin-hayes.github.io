@@ -21,15 +21,18 @@ The following is a selection of completed reading in a primary language other th
 8. Tolkien, J.R.R. _Die zwei Türme_. Translated by Wolfgang Krege, Stuttgart, Klett-Cotta, 2014.
 9. Tolkien, J.R.R. _Die Rückkehr des Königs_. Translated by Wolfgang Krege, Stuttgart, Klett-Cotta, 2014.
 10. Dürrenmatt, Friedrich. _Der Richter und sein Henker_. Zürich, Diogenes, 2012.
+11. Preußler, Otfried. _Krabat_. Stuttgart, Thienemann, 2021.
 
 ### Italian
 
-1. Blasi, Valeria. _Amore e Cappucino_. Firenze, ALMA Edizioni, 2015.
+1. Blasi, Valeria. _Amore e cappucino_. Firenze, ALMA Edizioni, 2015.
 2. De Giuli, Alessandro and Ciro Massimo Naddeo. _Dov'è Yukio_. Firenze, ALMA Edizioni, 2015.
 3. De Giuli, Alessandro and Ciro Massimo Naddeo. _Radio Lina_. Firenze, ALMA Edizioni, 2015.
 4. De Giuli, Alessandro. _Dolomiti_. Firenze, ALMA Edizioni, 2015.
-5. Ducci, Giovanni. _Pasta per Due_. Firenze, ALMA Edizioni, 2015.
+5. Ducci, Giovanni. _Pasta per due_. Firenze, ALMA Edizioni, 2015.
 6. Marulo, Claudia. _Il palio rubato_. Torino, Loescher Editore, 2022.
+7. Benedetti, Federico. _L'italien_. Chennevières-sur-Marne, Assimil, 20201.
+8. Pasqui, Alessandra. _Come hai detto che ti chiami?_. Firenze, ALMA Edizioni, 2018.
 
 ## 2023
 

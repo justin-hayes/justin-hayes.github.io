@@ -37,6 +37,7 @@ The following is a selection of completed reading in a primary language other th
 10. Ducci, Giovanni. _La rossa_. Firenze, ALMA Edizioni, 2015.
 11. De Giuli, Alessandro and Ciro Massimo Naddeo. _Maschere a Venezia_. Firenze, ALMA Edizioni, 2015.
 12. Marretta, Sara. _La commissaria_. Firenze, ALMA Edizioni, 2016.
+13. Ducci, Giovanni. _Amore in paradiso_. Firenze, ALMA Edizioni, 2015.
 
 ## 2023
 

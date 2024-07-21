@@ -33,6 +33,8 @@ The following is a selection of completed reading in a primary language other th
 6. Marulo, Claudia. _Il palio rubato_. Torino, Loescher Editore, 2022.
 7. Benedetti, Federico. _L'italien_. Chennevières-sur-Marne, Assimil, 20201.
 8. Pasqui, Alessandra. _Come hai detto che ti chiami?_. Firenze, ALMA Edizioni, 2018.
+9. Sandrini, Maurizio. _Le città impossibili_. Firenze, ALMA Edizioni, 2015.'
+10. Ducci, Giovanni. _La rossa_. Firenze, ALMA Edizioni, 2015.
 
 ## 2023
 

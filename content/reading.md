@@ -35,6 +35,8 @@ The following is a selection of completed reading in a primary language other th
 8. Pasqui, Alessandra. _Come hai detto che ti chiami?_. Firenze, ALMA Edizioni, 2018.
 9. Sandrini, Maurizio. _Le città impossibili_. Firenze, ALMA Edizioni, 2015.'
 10. Ducci, Giovanni. _La rossa_. Firenze, ALMA Edizioni, 2015.
+11. De Giuli, Alessandro and Ciro Massimo Naddeo. _Maschere a Venezia_. Firenze, ALMA Edizioni, 2015.
+12. Marretta, Sara. _La commissaria_. Firenze, ALMA Edizioni, 2016.
 
 ## 2023
 

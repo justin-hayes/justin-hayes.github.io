@@ -40,6 +40,7 @@ The following is a selection of completed reading in a primary language other th
 12. Marretta, Sara. _La commissaria_. Firenze, ALMA Edizioni, 2016.
 13. Ducci, Giovanni. _Amore in paradiso_. Firenze, ALMA Edizioni, 2015.
 14. Marulo, Claudia and Carla Marulo. _Il gatto scomparso_. Torino, Loescher Editore, 2022.
+15. Lovato, Enrico. _Il ladro di scarpe_. Firenze, ALMA Edizioni, 2015.
 
 ## 2023
 

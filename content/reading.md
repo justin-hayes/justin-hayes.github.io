@@ -22,6 +22,7 @@ The following is a selection of completed reading in a primary language other th
 9. Tolkien, J.R.R. _Die Rückkehr des Königs_. Translated by Wolfgang Krege, Stuttgart, Klett-Cotta, 2014.
 10. Dürrenmatt, Friedrich. _Der Richter und sein Henker_. Zürich, Diogenes, 2012.
 11. Preußler, Otfried. _Krabat_. Stuttgart, Thienemann, 2021.
+12. Lewis, C.S.  _Der König von Narnia_. Translated by Christian Rendel and Wolfgang Hohlbein, Berlin, Überreuter Verlag, 2013.
 
 ### Italian
 
@@ -38,6 +39,7 @@ The following is a selection of completed reading in a primary language other th
 11. De Giuli, Alessandro and Ciro Massimo Naddeo. _Maschere a Venezia_. Firenze, ALMA Edizioni, 2015.
 12. Marretta, Sara. _La commissaria_. Firenze, ALMA Edizioni, 2016.
 13. Ducci, Giovanni. _Amore in paradiso_. Firenze, ALMA Edizioni, 2015.
+14. Marulo, Claudia and Carla Marulo. _Il gatto scomparso_. Torino, Loescher Editore, 2022.
 
 ## 2023
 

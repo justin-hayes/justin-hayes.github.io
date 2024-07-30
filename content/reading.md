@@ -44,6 +44,7 @@ The following is a selection of completed reading in a primary language other th
 16. De Giuli, Alessandro and Ciro Massimo Naddeo. _Mafia, amore & polizia_. Firenze, ALMA Edizioni, 2016.
 17. De Giuli, Alessandro and Ciro Massimo Naddeo. _Modelle, pistolle e mozarelle_. Firenze, ALMA Edizioni, 2015.
 18. Pasqui, Alessandra. _Le magiche ricette di Matilda_. Firenze, ALMA Edizioni, 2024.
+19. Russo, Emiliana. _Se una notte d'estate una studentessa..._. Torino, Loescher Editore, 2021.
 
 ## 2023
 

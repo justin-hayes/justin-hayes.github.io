@@ -47,6 +47,7 @@ The following is a selection of completed reading in a primary language other th
 19. Russo, Emiliana. _Se una notte d'estate una studentessa..._. Torino, Loescher Editore, 2021.
 20. Russo, Emiliana. _Chef per un giorno_. Torino, Loescher Editore, 2021.
 21. Russo, Emiliana. _Sulle tracce di una strega_. Torino, Loescher Editore, 2022.
+22. Brivio, Anna Maria. _Mani d'oro_. Torino, Loescher Editore, 2022.
 
 ## 2023
 

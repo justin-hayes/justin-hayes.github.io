@@ -45,6 +45,8 @@ The following is a selection of completed reading in a primary language other th
 17. De Giuli, Alessandro and Ciro Massimo Naddeo. _Modelle, pistolle e mozarelle_. Firenze, ALMA Edizioni, 2015.
 18. Pasqui, Alessandra. _Le magiche ricette di Matilda_. Firenze, ALMA Edizioni, 2024.
 19. Russo, Emiliana. _Se una notte d'estate una studentessa..._. Torino, Loescher Editore, 2021.
+20. Russo, Emiliana. _Chef per un giorno_. Torino, Loescher Editore, 2021.
+21. Russo, Emiliana. _Sulle tracce di una strega_. Torino, Loescher Editore, 2022.
 
 ## 2023
 

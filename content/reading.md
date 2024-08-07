@@ -23,6 +23,7 @@ The following is a selection of completed reading in a primary language other th
 10. Dürrenmatt, Friedrich. _Der Richter und sein Henker_. Zürich, Diogenes, 2012.
 11. Preußler, Otfried. _Krabat_. Stuttgart, Thienemann, 2021.
 12. Lewis, C.S.  _Der König von Narnia_. Translated by Christian Rendel and Wolfgang Hohlbein, Berlin, Überreuter Verlag, 2013.
+13. Lewis, C.S. _Prinz Kaspian von Narnia_. Translated by Christian Rendel and Wolfgang Hohlbein, Berlin, Überreuter Verlag, 2013.
 
 ### Italian
 
@@ -49,6 +50,8 @@ The following is a selection of completed reading in a primary language other th
 21. Russo, Emiliana. _Sulle tracce di una strega_. Torino, Loescher Editore, 2022.
 22. Brivio, Anna Maria. _Mani d'oro_. Torino, Loescher Editore, 2022.
 23. Alessandri, Celeste. _Lezioni di Pasticceria_. Torino, Loescher Editore, 2023.
+24. Stilton, Geronimo. _Il misterioso manoscritto di Nostratopus_. Segrate, Edizioni Piemme, 2018.
+25. De Giuli, Alessandro and Ciro Massimo Naddeo. _Opera!_. Firenze, ALMA Edizioni, 2015.
 
 ## 2023
 

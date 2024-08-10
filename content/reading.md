@@ -52,6 +52,8 @@ The following is a selection of completed reading in a primary language other th
 23. Alessandri, Celeste. _Lezioni di Pasticceria_. Torino, Loescher Editore, 2023.
 24. Stilton, Geronimo. _Il misterioso manoscritto di Nostratopus_. Segrate, Edizioni Piemme, 2018.
 25. De Giuli, Alessandro and Ciro Massimo Naddeo. _Opera!_. Firenze, ALMA Edizioni, 2015.
+26. Sandrini, Maurizio. _Giro d'Italia con un clic_. Firenze, ALMA Edizioni, 2023.
+27. De Giuli, Alessandro and Ciro Massimo Naddeo. _Piccole storie d'amore_. Firenze, ALMA Edizioni, 2015.
 
 ## 2023
 

@@ -24,6 +24,8 @@ The following is a selection of completed reading in a primary language other th
 11. Preußler, Otfried. _Krabat_. Stuttgart, Thienemann, 2021.
 12. Lewis, C.S.  _Der König von Narnia_. Translated by Christian Rendel and Wolfgang Hohlbein, Berlin, Überreuter Verlag, 2013.
 13. Lewis, C.S. _Prinz Kaspian von Narnia_. Translated by Christian Rendel and Wolfgang Hohlbein, Berlin, Überreuter Verlag, 2013.
+14. Tolkien, J.R.R. _Das Silmarillion_. Translated by Wolfgang Krege, Stuttgart, Klett-Cotta, 2010.
+15. Lewis, C.S. _Die Reise auf der Morgenröte_. Translated by Christian Rendel and Wolfgang Hohlbein, Berlin, Überreuter Verlag, 2013.
 
 ### Italian
 

@@ -26,6 +26,7 @@ The following is a selection of completed reading in a primary language other th
 13. Lewis, C.S. _Prinz Kaspian von Narnia_. Translated by Christian Rendel and Wolfgang Hohlbein, Berlin, Überreuter Verlag, 2013.
 14. Tolkien, J.R.R. _Das Silmarillion_. Translated by Wolfgang Krege, Stuttgart, Klett-Cotta, 2010.
 15. Lewis, C.S. _Die Reise auf der Morgenröte_. Translated by Christian Rendel and Wolfgang Hohlbein, Berlin, Überreuter Verlag, 2013.
+16. Tetzner, Reiner. _Germanische Göttersagen_. Stuttgart, Reclam Verlag, 2017.
 
 ### Italian
 

@@ -31,6 +31,9 @@ The following is a selection of completed reading in a primary language other th
 18. Funke, Cornelia. _Steinernes Fleisch_. Hamburg, Dressler Verlag, 2020.
 19. Lewis, C.S. _Der silberne Sessel_. Translated by Christian Rendel and Wolfgang Hohlbein, Berlin, Überreuter Verlag, 2013.
 20. Funke, Cornelia. _Lebendige Schatten_. Hamburg, Dressler Verlag, 2012.
+21. Lewis, C.S. _Der Ritt nach Narnia_. Translated by Christian Rendel and Wolfgang Hohlbein, Berlin, Überreuter Verlag, 2013.
+22. Lewis, C.S. _Das Wunder von Narnia_. Translated by Christian Rendel and Wolfgang Hohlbein, Berlin, Überreuter Verlag, 2013.
+23. Lewis, C.S. _Der letzte Kampf_. Translated by Christian Rendel and Wolfgang Hohlbein, Berlin, Überreuter Verlag, 2013.
 
 ### Italian
 

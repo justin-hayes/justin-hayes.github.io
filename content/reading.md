@@ -35,6 +35,7 @@ The following is a selection of completed reading in a primary language other th
 22. Lewis, C.S. _Das Wunder von Narnia_. Translated by Christian Rendel and Wolfgang Hohlbein, Berlin, Überreuter Verlag, 2013.
 23. Lewis, C.S. _Der letzte Kampf_. Translated by Christian Rendel and Wolfgang Hohlbein, Berlin, Überreuter Verlag, 2013.
 24. Homer. _Odyssee: Der berühmtesten Stellen_. Translated by Roland Hampe, Ditzingen, Reclam, 2023.
+25. Scholz, Eva-Maria. _Krabat_. Ditzingen, Reclam, 2019.
 
 ### Italian
 

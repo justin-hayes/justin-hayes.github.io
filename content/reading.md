@@ -35,7 +35,14 @@ The following is a selection of completed reading in a primary language other th
 22. Lewis, C.S. _Das Wunder von Narnia_. Translated by Christian Rendel and Wolfgang Hohlbein, Berlin, Überreuter Verlag, 2013.
 23. Lewis, C.S. _Der letzte Kampf_. Translated by Christian Rendel and Wolfgang Hohlbein, Berlin, Überreuter Verlag, 2013.
 24. Homer. _Odyssee: Der berühmtesten Stellen_. Translated by Roland Hampe, Ditzingen, Reclam, 2023.
-25. Scholz, Eva-Maria. _Krabat_. Ditzingen, Reclam, 2019.
+25. Scholz, Eva-Maria. _Otfried Preußler: Krabat_. Ditzingen, Reclam, 2019.
+26. Hesse, Hermann. _Siddharta_. Frankfurt am Main, Suhrkamp, 2023.
+27. Tetzner, Reiner. _Germanische Heldensagen_. Stuttgart, Reclam, 2017.
+28. Gart, John. _Tolkien und der Erste Weltkrieg: Das Tor zu Mittelerde_. Translated by Birger Herden and Marcel Bülles, Stuttgart, Klett-Cotta, 2014.
+29. Schami, Rafik. _Erzähler der Nacht_. München, dtv, 2022.
+30. Funke, Cornelia. _Das goldene Garn_. Hamburg, Dressler, 2015.
+31. Herzog, Werner. _Das Dämmern der Welt_. Frankfurt am Main, Fischer, 2023.
+32. Funke, Cornelia. _Auf silberner Fährte_. Hamburg, Dressler, 2020.
 
 ### Italian
 

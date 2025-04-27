@@ -7,6 +7,23 @@ showReadingTime = false
 
 The following is a selection of completed reading in a primary language other than English.
 
+## 2025
+
+### German
+
+1. Herzog, Werner. _Jeder für sich und Gott gegen alle_. München, Carl Hanser Verlag, 2022.
+2. Sapkowski, Andrzej. _Das Erbe der Elfen_. München, dtv, 2019.
+3. Hawes, James. _Die kürzeste Geschichte Deutschlands_. Berlin, Ullstein, 2019.
+4. Tolkien, J.R.R. _Die Kinder Húrins_. Translated by Helmut W. Pesch and Hans J. Schütz, Stuttgart, Klett-Cotta, 2011.
+5. Tolkien, J.R.R. _Beren und Lúthien_. Translated by Helmut W. Pesch and Hans-Ulrich Möhring, Stuttgart, Klett-Cotta, 2017.
+6. Tolkien, J.R.R. _Der Fall von Gondolin_. Translated by Helmut W. Pesch and Hans J. Schütz, Stuttgart, Klett-Cotta, 2018.
+7. Tolkien, J.R.R. _Der Untergang von Númenor_. Translated by Helmut W. Pesch, Stuttgart, Klett-Cotta, 2022.
+8. Brüder Grimm. _Die schönsten Märchen_. Stuttgart, Reclam Verlag, 2021.
+
+### Ancient Greek
+
+1. Steadman, Geoffrey and Homer. _Homer's Odyssey 9-12_. 2010.
+
 ## 2024
 
 ### German

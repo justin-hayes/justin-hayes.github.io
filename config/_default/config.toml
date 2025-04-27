@@ -6,7 +6,7 @@ baseURL = "https://justinhayes.me/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
-paginate = 10
+pagination.pagerSize = 10
 summaryLength = 0
 pluralizeListTitles = false
 
